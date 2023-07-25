@@ -1,0 +1,43 @@
+﻿# 100DaysOfOSS Progress Tracker
+
+## Day 1
+
+- **Project**: Codecademy Docs
+- **Description of Project**: Codecademy Docs is a community-driven reference that can people can use when learning how to code or developing other tech skills.
+- **Goals**: I wanted to grow my documentation skills, so I decided to improve on an entry I started writing.  
+- **Tasks completed**:
+The reviewer suggested that I add some text in the syntax template I created, so I used Percentage Complete so people can gain a better understanding of how to use the progress element in their projects. I also added screenshots of the coding examples I created readers can see how the progress bar looks in a browser.
+- **Challenges faced**:
+- Uploading the images: I had trouble linking the screenshots to my entry
+- Making the code snippets distinctive: I wanted the second example to be different and intermediate, so that people who quickly learned the syntax be engaged in the syntax.
+- Passing one of the code tests:
+- **Resources used**:
+- [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/progress)
+- [Codepen](https://codepen.io/)
+
+**Note:** It takes two approvals for entries to be merged, so I will check in later this week or tomorrow for updates.
+
+- **OpenSauced Highlight**: [Term Entry: `<progress>`](https://github.com/Codecademy/docs/pull/2842)
+
+----
+
+## Day 2
+
+**Update**: I got a second review on my PR for Codeacademy Docs. I just needed revise some typos and use one of the examples I created to make it more applicable to how developers and tech professionals who code actually use this element in their daily work.
+Want to see more, check out the previous journal entry.
+
+- **Project**: LinksHub
+
+- **Description**:  I co-maintain this project with Rupali Haldiya. It's a website that provides developers and other tech professionals with free resources to learn new or improve their tech skills.
+
+- **Tasks completed**:
+- Reviewed Pull Requests from contributors
+
+- **Challenges faced**:
+- One of the major issues I faced is solving merge conflicts. At first, I tried opening the Merge Conflict Editor in VS Code, but that did not work. So, I tried doing it in GitHub, but that led to a deployment failure warning. So, I copied the JSON file into a JSON file validator for context and then used Bard for more assistance. This is a skill that I want to improve on as the challenge progresses.
+
+- **Resources used**:
+- [Bard](https://support.google.com/bard/answer/13275745?hl=en&ref_topic=13194540&sjid=4377171688044085065-NA )
+- [JSON Format Validator](https://elmah.io/tools/json-formatter/)
+
+- **OpenSauced Highlight**: [Reviewed PR](https://github.com/rupali-codes/LinksHub/pull/1363)
