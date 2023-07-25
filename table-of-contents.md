@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-  - [Day 1](/day-1.md)
-  - [Day 2](#day-2)
+  - [Day 1](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/day-1-and-2.md#day-1)
+  - [Day 2](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/day-1-and-2.md#day-2)
   - [Day 3](#day-3)
   - [Day 4](#day-4)
   - [Day 5](#day-5)
