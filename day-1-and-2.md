@@ -2,14 +2,14 @@
 
 ## Day 1
 
-- **Project**: Codecademy Docs
+- **Project**: [Codecademy Docs](https://www.codecademy.com/resources/docs)
 - **Description of Project**: Codecademy Docs is a community-driven reference that can people can use when learning how to code or developing other tech skills.
 - **Goals**: I wanted to grow my documentation skills, so I decided to improve on an entry I started writing.  
 - **Tasks completed**:
 The reviewer suggested that I add some text in the syntax template I created, so I used Percentage Complete so people can gain a better understanding of how to use the progress element in their projects. I also added screenshots of the coding examples I created readers can see how the progress bar looks in a browser.
 - **Challenges faced**:
 - Uploading the images: I had trouble linking the screenshots to my entry
-- Making the code snippets distinctive: I wanted the second example to be different and intermediate, so that people who quickly learned the syntax be engaged in the syntax.
+- Making the code snippets distinctive: I wanted the second example to be different and intermediate so that people who quickly learned the syntax be engaged in the entry.
 - Passing one of the code tests:
 - **Resources used**:
 - [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/progress)
@@ -23,10 +23,10 @@ The reviewer suggested that I add some text in the syntax template I created, so
 
 ## Day 2
 
-**Update**: I got a second review on my PR for Codeacademy Docs. I just needed revise some typos and use one of the examples I created to make it more applicable to how developers and tech professionals who code actually use this element in their daily work.
-Want to see more, check out the previous journal entry.
+**Update**: I got a second review on my PR for Codeacademy Docs. I just needed to revise some typos and use one of the examples I created to make it more applicable to how developers and tech professionals who code actually use this element in their daily work.
+Want to see more, check out [the previous journal entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/day-1-and-2.md#day-1).
 
-- **Project**: LinksHub
+- **Project**: [LinksHub](https://www.linkshub.dev/)
 
 - **Description**:  I co-maintain this project with Rupali Haldiya. It's a website that provides developers and other tech professionals with free resources to learn new or improve their tech skills.
 
