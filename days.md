@@ -46,9 +46,20 @@ Want to see more, check out [the previous journal entry](https://github.com/CBID
 
 ## Day 3
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project(s)**: The Good Docs Project and OpenSauced
+- **Description**:  TGDP is a group of technical writers of all backgrounds that work diligently to provide people with the necessary tools to create high-quality documentation for their products. OpenSauced is a platform with a mission to help people in tech to have an engaging experience with the open source community.
+- **Tasks completed**:
+- GDP: Create a Merge Request for my troubleshooting template
+- OpenSauced: Submit a pull request that adds subfolders to the Chrome Extension section of the company's product documentation.
+- **Challenges faced**:
+- GDP: It took me a while to work with GitLab. I eventually got over it by reading the website's documentation and installing their workflow extension for VS Code.
+- OpenSauced: At first, I did not know how to go about adding the subfolders, but I decided to experiment and do a little research, and I eventually created the Pull request. It's still a work in progress.  
+- **Resources used in GDP**:
+- [Fork a repository]( https://docs.gitlab.com/ee/user/project/repository/forking_workflow.html)
+- [Markdown Chrome Extension](https://workspace.google.com/marketplace/app/docs_to_markdown/700168918607)
+- **Resources used in OpenSauced**:
+- [JSON for Beginners – JavaScript Object Notation Explained in Plain English]( https://www.freecodecamp.org/news/what-is-json-a-json-file-example/)
+- [Bard](https://support.google.com/bard/answer/13275745?hl=en&ref_topic=13194540&sjid=4377171688044085065-NA)
+- **OpenSauced Highlight**:
+- [OpenSauced PR]( https://github.com/open-sauced/docs/pull/123)
+- [Good Docs Project MR](https://gitlab.com/tgdp/templates/-/merge_requests/298 )
