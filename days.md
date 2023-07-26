@@ -46,8 +46,8 @@ Want to see more, check out [the previous journal entry](https://github.com/CBID
 
 ## Day 3
 
-- **Project(s)**: The Good Docs Project and OpenSauced
-- **Description**:  TGDP is a group of technical writers of all backgrounds that work diligently to provide people with the necessary tools to create high-quality documentation for their products. OpenSauced is a platform with a mission to help people in tech to have an engaging experience with the open source community.
+- **Project(s)**: [The Good Docs Project](https://thegooddocsproject.dev/about/) and [OpenSauced](https://opensauced.pizza/about)
+- **Description**:  The Good Docs Project is a group of technical writers of all backgrounds that work diligently to provide people with the necessary tools to create high-quality documentation for their products. OpenSauced is a platform with a mission to help people in tech to have an engaging experience with the open source community.
 - **Tasks completed**:
 - GDP: Create a Merge Request for my troubleshooting template
 - OpenSauced: Submit a pull request that adds subfolders to the Chrome Extension section of the company's product documentation.
@@ -63,3 +63,14 @@ Want to see more, check out [the previous journal entry](https://github.com/CBID
 - **OpenSauced Highlight**:
 - [OpenSauced PR]( https://github.com/open-sauced/docs/pull/123)
 - [Good Docs Project MR](https://gitlab.com/tgdp/templates/-/merge_requests/298 )
+  
+  ---
+
+## Day 4
+
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
