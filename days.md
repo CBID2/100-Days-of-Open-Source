@@ -75,15 +75,16 @@ Want to see more, check out [the previous journal entry](https://github.com/CBID
 - **Description**: This is the site developers and other people in tech  reference to for their coding projects. For this project, I wanted to improve the table in [the accesskey chapter](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/accesskey). Here's [the issue](https://github.com/mdn/content/issues/25608) for more context.
 
 - **Tasks completed**:
-- I managed to place in the values
+- I managed to place the values
 - I also got my first review
 
 - **Challenges faced**:
-- Reformatting the table: I had trouble with placing each entry in a cell. Hopefully, I can solve by Day 5 or 6.
+- Reformatting the table: I had trouble with placing each entry in a cell. Hopefully, I can solve it by Day 5 or 6.
 
 - **Resources used**:
 - [Table Basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
 - [Accessibility features in Firefox](https://support.mozilla.org/en-US/kb/accessibility-features-firefox?s=access+key&as=s&redirectslug=Accessibility&redirectlocale=en-US#w_html-access-keys)
+- [Frontmatter guide](https://mdxjs.com/guides/frontmatter/)
 
 - **OpenSauced Highlight**: Not yet
 
