@@ -68,6 +68,27 @@ Want to see more, check out [the previous journal entry](https://github.com/CBID
 
 ## Day 4
 
+**Update:** I made progress with [my pull request for OpenSauced](https://github.com/open-sauced/docs/pull/123). I have still have to solve the deployment issues.
+
+- **Project**: [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
+
+- **Description**: This is the site developers and other people in tech  reference to for their coding projects. For this project, I wanted to improve the table in [the accesskey chapter](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/accesskey). Here's [the issue](https://github.com/mdn/content/issues/25608) for more context.
+
+- **Tasks completed**:
+- I managed to place in the values
+- I also got my first review
+
+- **Challenges faced**:
+- Reformatting the table: I had trouble with placing each entry in a cell. Hopefully, I can solve by Day 5 or 6.
+
+- **Resources used**:
+- [Table Basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
+- [Accessibility features in Firefox](https://support.mozilla.org/en-US/kb/accessibility-features-firefox?s=access+key&as=s&redirectslug=Accessibility&redirectlocale=en-US#w_html-access-keys)
+
+- **OpenSauced Highlight**: Not yet
+
+## Day 5
+
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
 - **Tasks completed**: [List the tasks you completed]
