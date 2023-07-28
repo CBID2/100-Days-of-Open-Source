@@ -7,7 +7,7 @@
 - [Day 3](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-3)
 - [Day 4](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-4)
 - [Day 5](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-5)
-- [Day 6](#day-6)
+- [Day 6](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-6)
 - [Day 7](#day-7)
 - [Day 8](#day-8)
 - [Day 9](#day-9)
