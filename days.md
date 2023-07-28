@@ -102,3 +102,12 @@ Want to see more, check out [the previous journal entry](https://github.com/CBID
 - **Resources used**: Nothing this time. Just the power of collaboration.
 
 - **OpenSauced Highlight**: [Making things accurate](https://insights.opensauced.pizza/feed/267)
+
+## Day 6
+
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
