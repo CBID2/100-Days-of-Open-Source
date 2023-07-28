@@ -89,9 +89,15 @@ Want to see more, check out [the previous journal entry](https://github.com/CBID
 
 ## Day 5
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [LinksHub] (https://www.linkshub.dev/) and [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
+
+- **Description**: See [Day 2's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-2) and [Day 4's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-4) for the description of the projects. For LinksHub, I wanted to review and merge some PRs. In contrast, I wanted to revise and get my pull request for MDN Web Docs merged. 
+
+- **Tasks completed**: 
+- LinkHub: I reviewed and merged two PRs. 
+- MDN: I revised my PR got it merged 
+
+- **Challenges faced**: For MDN, I struggled with reformatting the table. So I worked with the reviewer and managed to fix it. 
+- **Resources used**: Nothing this time. Just the power of collaboration. 
+
+- **OpenSauced Highlight**: [Making things accurate](https://insights.opensauced.pizza/feed/267)
