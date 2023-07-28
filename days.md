@@ -62,7 +62,7 @@ Want to see more, check out [the previous journal entry](https://github.com/CBID
 - [Bard](https://support.google.com/bard/answer/13275745?hl=en&ref_topic=13194540&sjid=4377171688044085065-NA)
 - **OpenSauced Highlight**:
 - [OpenSauced PR]( https://github.com/open-sauced/docs/pull/123)
-- [Good Docs Project MR](https://gitlab.com/tgdp/templates/-/merge_requests/298 )
+- [Good Docs Project MR](https://gitlab.com/tgdp/templates/-/merge_requests/299)
   
   ---
 
@@ -90,15 +90,15 @@ Want to see more, check out [the previous journal entry](https://github.com/CBID
 
 ## Day 5
 
-- **Project**: [LinksHub] (https://www.linkshub.dev/) and [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
+- **Project**: [LinksHub] (<https://www.linkshub.dev/>) and [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
 
-- **Description**: See [Day 2's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-2) and [Day 4's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-4) for the description of the projects. For LinksHub, I wanted to review and merge some PRs. In contrast, I wanted to revise and get my pull request for MDN Web Docs merged. 
+- **Description**: See [Day 2's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-2) and [Day 4's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-4) for the description of the projects. For LinksHub, I wanted to review and merge some PRs. In contrast, I wanted to revise and get my pull request for MDN Web Docs merged.
 
-- **Tasks completed**: 
-- LinkHub: I reviewed and merged two PRs. 
-- MDN: I revised my PR got it merged 
+- **Tasks completed**:
+- LinkHub: I reviewed and merged two PRs.
+- MDN: I revised my PR got it merged
 
-- **Challenges faced**: For MDN, I struggled with reformatting the table. So I worked with the reviewer and managed to fix it. 
-- **Resources used**: Nothing this time. Just the power of collaboration. 
+- **Challenges faced**: For MDN, I struggled with reformatting the table. So I worked with the reviewer and managed to fix it.
+- **Resources used**: Nothing this time. Just the power of collaboration.
 
 - **OpenSauced Highlight**: [Making things accurate](https://insights.opensauced.pizza/feed/267)
