@@ -105,9 +105,23 @@ Want to see more, check out [the previous journal entry](https://github.com/CBID
 
 ## Day 6
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+**Update**: I got my OpenSauced PR merged! :) See [Day 3's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-3) for context.
+
+- **Project(s)**: [The Odin Project](https://www.theodinproject.com/contributing ) . To see information about Codecademy and LinksHub, check out entries see [Day 2's](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-2) and [Day 1's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-1) 
+
+- **Description**: The Odin Project is a free, open source curriculum on web development. They also provide developers tips on how to endure their job search journey.  As far as goals go, I wanted to get 
+
+- **Tasks completed**: 
+- I managed to get my PR request merged. 
+- For Codecademy and LinksHub, I managed to review a few pull requests. 
+
+- **Challenges faced**: 
+- Codecademy: I  was reviewing alot of cybersecurity-related PRs. As someone who has a short-term career goal work in a IT Helpdesk support(I plan on using my knowledge from that experience to become a technical writer), I had to do extra research to provide effective feedback. It was difficult at first, but I eventually found some information that I found helpful.  
+
+- **Resources used**: 
+- [MDN entry on meter](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meter) 
+- [Cybersecurity resource](https://www.inc.com/joe-galvin/60-percent-of-small-businesses-fold-within-6-months-of-a-cyber-attack-heres-how-to-protect-yourself.html) 
+
+- **OpenSauced Highlight**: 
+- [PR for The Odin Project](https://insights.opensauced.pizza/feed/273)
+- [PR for OpenSauced](https://insights.opensauced.pizza/feed/272) 
