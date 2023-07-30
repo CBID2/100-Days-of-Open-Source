@@ -128,9 +128,22 @@ Want to see more, check out [the previous journal entry](https://github.com/CBID
 
 ## Day 7
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project(s)**: [FreeCodeCamp News](https://www.freecodecamp.org/news/) and [Linkfree](https://github.com/EddieHubCommunity/LinkFree)
+
+- **Description**:
+- Linkfree is a free open source alternative to the social bio link site, [Linktree](https://linktr.ee/s/join-linktree-pro-for-free-ga/?&utm_source=google&utm_medium=cpc&utm_campaign=BAU_US_Google_Search_Brand_Intent_Experiment_SA360_Bid_Strategy_tROAS&utm_term=linktree&utm_content=BAU_US_Google_Search_Brand_Intent_Linktree&gclid=CjwKCAjw8ZKmBhArEiwAspcJ7l8lKT__54rl--kN7U_-c9Q_YJWNum2EvzQSxnYlsNP7m_zZA4KNTxoCzakQAvD_BwE&gclsrc=aw.d).
+- FreeCodeCampNews is a resource of articles about tech.  
+- Goals for FreeCodeCamp News: Start my outline for an open source-related blog post
+- Goals for Linkfree: Raise an issue on the repo
+
+- **Tasks completed**:
+- FreeCodeCamp News: finished first half of my outline
+- Linkfree: I raised the issue
+
+- **Challenges faced**:
+For my outline, I struggled with trying to be engaging and humorous like my other posts. But then, I told myself to relax and not pressure myself too much
+For the issue I raised in Linkfree, it was finding an svg of the X icon(old name is Twitter). It took me a while, but I eventually got it.
+
+- **Resources used**: [X icon](https://freebiehive.com/twitter-x-logo-png/)
+
+- **OpenSauced Highlight**: Not yet
