@@ -148,7 +148,7 @@ For the issue I raised in Linkfree, it was finding an svg of the X icon(old name
 
 - **OpenSauced Highlight**: Not yet
 
-## Template for Each Day
+## Day 8
 
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
