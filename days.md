@@ -150,6 +150,16 @@ For the issue I raised in Linkfree, it was finding an svg of the X icon(old name
 
 ## Day 8
 
+- **Project**: [FreeCodeCamp](https://contribute.freecodecamp.org/#/index?id=curriculum)
+- **Description**: This is an open source curriculm on web development and other courses. My goal is to continue work on my draft pull request  
+- **Tasks completed**: 
+-Made some changes to the seed code in some of the steps. 
+- **Challenges faced**:  I have not worked on this repository for a while now so I struggled with how to contribute to the project, but I got it. I also struggled with changing the order of the steps, but I'm determined to accomplish this PR. 
+- **Resources used**: [The working with challenges section in Freecodecamp's contributing guide](https://contribute.freecodecamp.org/#/how-to-work-on-coding-challenges?id=writing-tests)
+- **OpenSauced Highlight**: Not yet
+
+## Day 9
+
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
 - **Tasks completed**: [List the tasks you completed]
