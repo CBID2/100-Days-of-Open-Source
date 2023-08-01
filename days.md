@@ -42,8 +42,6 @@ Want to see more, check out [the previous journal entry](https://github.com/CBID
 
 - **OpenSauced Highlight**: [Reviewed PR](https://github.com/rupali-codes/LinksHub/pull/1363)
 
----
-
 ## Day 3
 
 - **Project(s)**: [The Good Docs Project](https://thegooddocsproject.dev/about/) and [OpenSauced](https://opensauced.pizza/about)
@@ -64,7 +62,7 @@ Want to see more, check out [the previous journal entry](https://github.com/CBID
 - [OpenSauced PR]( https://github.com/open-sauced/docs/pull/123)
 - [Good Docs Project MR](https://gitlab.com/tgdp/templates/-/merge_requests/299)
   
-  ---
+----
 
 ## Day 4
 
@@ -154,11 +152,26 @@ For the issue I raised in Linkfree, it was finding an svg of the X icon(old name
 - **Description**: This is an open source curriculum on web development and other courses. My goal is to continue work on my draft pull request  
 - **Tasks completed**:
 Made some changes to the seed code in some of the steps.
-- **Challenges faced**:  I have not worked on this repository for a while now so I struggled with how to contribute to the project, but I got it. I also struggled with changing the order of the steps, but I'm determined to accomplish this PR. 
+- **Challenges faced**:  I have not worked on this repository for a while now so I struggled with how to contribute to the project, but I got it. I also struggled with changing the order of the steps, but I'm determined to accomplish this PR.
 - **Resources used**: [The working with challenges section in Freecodecamp's contributing guide](https://contribute.freecodecamp.org/#/how-to-work-on-coding-challenges?id=writing-tests)
 - **OpenSauced Highlight**: Not yet
 
 ## Day 9
+
+- **Project**: [Freecodecamp](https://github.com/freeCodeCamp/freeCodeCamp)
+
+- **Description**: [View previous entry to learn about the project](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-8)
+I wanted to solve the merge conflicts in my draft PR.
+
+- **Tasks completed**:
+- Manged solve the merge conflicts
+
+- **Challenges faced**: I'm still struggling with changing the order of the lesson I'm fixing.
+
+- **Resources used**: None
+- **OpenSauced Highlight**:  Not yet
+
+## Day 10
 
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
