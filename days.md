@@ -173,6 +173,17 @@ I wanted to solve the merge conflicts in my draft PR.
 
 ## Day 10
 
+[The Good Docs Project](https://thegooddocsproject.dev/community/)
+
+- **Description**: [See this entry to learn about the project](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-3)  One of the maintainers pointed out that I was missing some files for my Merge request
+- **Tasks completed**:
+- Work a process and resources file for my template.
+- **Challenges faced**:
+I struggled with remembering the resources I used as inspiration for creating my troubleshooting template, but I remembered that I bookmarked them on my computer. I also was not sure if I should add the guides to my Merge Request.
+- **Resources used**: [Docs to Markdown](https://www.markdownguide.org/tools/google-docs-to-markdown/)
+
+## Day 11
+
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
 - **Tasks completed**: [List the tasks you completed]
