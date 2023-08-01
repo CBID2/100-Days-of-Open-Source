@@ -6,7 +6,7 @@
 - **Description of Project**: Codecademy Docs is a community-driven reference that can people can use when learning how to code or developing other tech skills.
 - **Goals**: I wanted to grow my documentation skills, so I decided to improve on an entry I started writing.  
 - **Tasks completed**:
-The reviewer suggested that I add some text in the syntax template I created, so I used Percentage Complete so people can gain a better understanding of how to use the progress element in their projects. I also added screenshots of the coding examples I created readers can see how the progress bar looks in a browser.
+The reviewer suggested that I add some text in the syntax template I created, so I used Percentage Complete so people can gain a better understanding of how to use the progress element in their projects. I also added screenshots of the coding examples I created so readers can see how the progress bar looks in a browser.
 - **Challenges faced**:
 - Uploading the images: I had trouble linking the screenshots to my entry
 - Making the code snippets distinctive: I wanted the second example to be different and intermediate so that people who quickly learned the syntax be engaged in the entry.
@@ -114,7 +114,7 @@ Want to see more, check out [the previous journal entry](https://github.com/CBID
 - For Codecademy and LinksHub, I managed to review a few pull requests.
 
 - **Challenges faced**:
-- Codecademy: I  was reviewing alot of cybersecurity-related PRs. As someone who has a short-term career goal work in a IT Helpdesk support(I plan on using my knowledge from that experience to become a technical writer), I had to do extra research to provide effective feedback. It was difficult at first, but I eventually found some information that I found helpful.  
+- Codecademy: I  was reviewing a lot of cybersecurity-related PRs. As someone who has a short-term career goal work in a IT Helpdesk support(I plan on using my knowledge from that experience to become a technical writer), I had to do extra research to provide effective feedback. It was difficult at first, but I eventually found some information that I found helpful.  
 
 - **Resources used**:
 - [MDN entry on meter](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meter)
@@ -135,7 +135,7 @@ Want to see more, check out [the previous journal entry](https://github.com/CBID
 - Goals for Linkfree: Raise an issue on the repo
 
 - **Tasks completed**:
-- FreeCodeCamp News: finished first half of my outline
+- FreeCodeCamp News: finished the first half of my outline
 - Linkfree: I raised the issue
 
 - **Challenges faced**:
@@ -175,9 +175,9 @@ I wanted to solve the merge conflicts in my draft PR.
 
 [The Good Docs Project](https://thegooddocsproject.dev/community/)
 
-- **Description**: [See this entry to learn about the project](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-3)  One of the maintainers pointed out that I was missing some files for my Merge request
+- **Description**: [See this entry to learn about the project](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-3).  One of the maintainers pointed out that I was missing some files for my Merge request
 - **Tasks completed**:
-- Work a process and resources file for my template.
+- Work on a process and resources file for my template.
 - **Challenges faced**:
 I struggled with remembering the resources I used as inspiration for creating my troubleshooting template, but I remembered that I bookmarked them on my computer. I also was not sure if I should add the guides to my Merge Request.
 - **Resources used**: [Docs to Markdown](https://www.markdownguide.org/tools/google-docs-to-markdown/)
