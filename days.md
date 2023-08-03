@@ -190,3 +190,12 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Challenges faced**: I struggled with finding a story that I felt suited the question's topic, but then I told myself that the reviewers wanted to know me, so I just wrote it.
 - **Resources used**: [Applicant Guide](https://www.outreachy.org/docs/applicant/#initial-application)
 - **OpenSauced Highlight**: N/A
+
+## Day 12
+
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
