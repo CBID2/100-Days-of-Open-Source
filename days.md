@@ -88,7 +88,7 @@ Want to see more, check out [the previous journal entry](https://github.com/CBID
 
 ## Day 5
 
-- **Project**: [LinksHub] (<https://www.linkshub.dev/>) and [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
+- **Project**: [LinksHub](<https://www.linkshub.dev/>) and [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
 
 - **Description**: See [Day 2's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-2) and [Day 4's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-4) for the description of the projects. For LinksHub, I wanted to review and merge some PRs. In contrast, I wanted to revise and get my pull request for MDN Web Docs merged.
 
@@ -184,9 +184,9 @@ I struggled with remembering the resources I used as inspiration for creating my
 
 ## Day 11
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [Outreachy](https://www.outreachy.org/)
+- **Description**: This is a paid internship that helps people from underrepresented communities gain experience in open source. I did not make it last year so my goal for today is to work on one of the essay questions.
+- **Tasks completed**: Answer one of the essay questions.
+- **Challenges faced**: I struggled with finding a story that I felt suited the question's topic, but then I told myself that the reviewers wanted to know me, so I just wrote it.
+- **Resources used**: [Applicant Guide](https://www.outreachy.org/docs/applicant/#initial-application)
+- **OpenSauced Highlight**: N/A
