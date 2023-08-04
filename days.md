@@ -193,10 +193,10 @@ I struggled with remembering the resources I used as inspiration for creating my
 
 ## Day 12
 
-- **Projects**: [Accessibleforall](), [MDN Web Docs](), and [LinksHub]()
+- **Projects**: [Accessibleforall](https://github.com/AccessibleForAll), [MDN Web Docs](https://developer.mozilla.org/en-US/), and [LinksHub](https://www.linkshub.dev/)
 - **Description**: See my entries for [Day #2](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-2) and [Day #4](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-4) to learn about the other two projects. Accessibleforall is a resource developers can reference to learn the basics of web accessibility. My goal for LinksHub is to review and merge a couple of pull requests as well as approve some issues contributors raised. For MDN, my goal is to check if a PR that I created got merged. Lastly, I wanted to create a pull request for Accessibleforall. 
 - **Tasks completed**: I fulfilled all three goals. 
-- **Challenges faced**: For Accessibleforall, I had trouble finding the folder where the content was placed, so I referred to merged PRs to get context. 
+- **Challenges faced**: For Accessibleforall, I had trouble finding the folder where the content was placed, so I referred to merged PRs to get context.
 - **Resources used**: [Exemplar Pull Request](https://github.com/AccessibleForAll/AccessibleWebDev/pull/356)
 - **OpenSauced Highlight**: [MDN Pull Request 1](https://insights.opensauced.pizza/feed/287) and [MDN Pull Request 2](https://insights.opensauced.pizza/feed/288)
 
