@@ -202,6 +202,15 @@ I struggled with remembering the resources I used as inspiration for creating my
 
 ## Day 13
 
+- **Project**: [Redhat Documentation](https://redhat-documentation.github.io/supplementary-style-guide/#_about_this_guide)
+- **Description**: This guide provides style guidelines and preferred term usage for Red Hat product and cross-product solution documentation. For this project, I wanted to work on Task in [this issue](https://github.com/redhat-documentation/supplementary-style-guide/issues/147).
+- **Tasks completed**:  I made the other PR.
+- **Challenges faced**: Somehow, [the commits I made in this PR](https://github.com/redhat-documentation/supplementary-style-guide/pull/374/commits) somehow got in my current branch. I eventually solved it with the command `git revert`.  
+- **Resources used**: [How To Revert a Git Commit](https://www.gitkraken.com/learn/git/problems/revert-git-commit)
+- **OpenSauced Highlight**: N/A
+  
+## Day 14
+
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
 - **Tasks completed**: [List the tasks you completed]
