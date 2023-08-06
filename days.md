@@ -211,6 +211,15 @@ I struggled with remembering the resources I used as inspiration for creating my
   
 ## Day 14
 
+- **Project**: [The Odin Project](https://www.theodinproject.com/contributing)
+- **Description**: [Check out this entry to learn more about the project](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-6). My goal for this project today is [to restructure one of their lessons](https://github.com/TheOdinProject/curriculum/issues/26042).
+- **Tasks completed**: Create an outline for the new version of the lesson.
+- **Challenges faced**: Since The Odin Project has a specific format for creating lessons, I struggled a little bit with separating the content into two separate ones. It's still a work in progress.
+- **Resources used**: [This is the lesson that I will be revising](https://www.theodinproject.com/lessons/javascript-a-deeper-look-at-git)
+- **OpenSauced Highlight**: N/A## Template for Each Day
+
+## Day 15
+
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
 - **Tasks completed**: [List the tasks you completed]
