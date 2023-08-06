@@ -216,7 +216,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Tasks completed**: Create an outline for the new version of the lesson.
 - **Challenges faced**: Since The Odin Project has a specific format for creating lessons, I struggled a little bit with separating the content into two separate ones. It's still a work in progress.
 - **Resources used**: [This is the lesson that I will be revising](https://www.theodinproject.com/lessons/javascript-a-deeper-look-at-git)
-- **OpenSauced Highlight**: N/A## Template for Each Day
+- **OpenSauced Highlight**: N/A
 
 ## Day 15
 
