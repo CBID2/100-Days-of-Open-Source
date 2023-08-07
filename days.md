@@ -220,6 +220,15 @@ I struggled with remembering the resources I used as inspiration for creating my
 
 ## Day 15
 
+- **Project**: [Freecodecamp]()
+- **Description**: To learn about the project, [Check out the description section of Day's 8 entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-8). The goal is to get farther in my draft pull request.
+- **Tasks completed**: I fixed the meta.JSON file and elaborated on one of the steps in the Cat photo gallery lesson.
+- **Challenges faced**: Fixing the JSON file.
+- **Resources used**: [My programming partner](https://github.com/shootermv)
+- **OpenSauced Highlight**: N/A
+
+## Day 16
+
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
 - **Tasks completed**: [List the tasks you completed]
