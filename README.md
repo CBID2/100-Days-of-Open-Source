@@ -1,4 +1,4 @@
-# 100 Days of Open Source (OSS) Journal
+# 100 Days of Open Source (OSS) 
 
 Hey there 👋!
 
