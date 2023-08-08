@@ -220,7 +220,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 
 ## Day 15
 
-- **Project**: [Freecodecamp]()
+- **Project**: [Freecodecamp](https://contribute.freecodecamp.org/#/index)
 - **Description**: To learn about the project, [Check out the description section of Day's 8 entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-8). The goal is to get farther in my draft pull request.
 - **Tasks completed**: I fixed the meta.JSON file and elaborated on one of the steps in the Cat photo gallery lesson.
 - **Challenges faced**: Fixing the JSON file.
@@ -228,6 +228,15 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **OpenSauced Highlight**: N/A
 
 ## Day 16
+
+- **Project**: [FreeCodeCamp](https://contribute.freecodecamp.org/#/index)
+- **Description**: This is an update about a PR I've been working on. Check out [yesterday's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-15) to learn more.
+- **Tasks completed**: Git pulled changes maintainers have made.
+- **Challenges faced**: Passing the tests. It's still an uphill battle I have to fight.
+- **Resources used**: FreeCodecamp's [Discord](https://discord.com/invite/PRyKn3Vbay) community.
+- **OpenSauced Highlight**: [PR for OpenSauced](https://insights.opensauced.pizza/feed/336)
+
+## Day 17
 
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
