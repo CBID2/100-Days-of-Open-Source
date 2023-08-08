@@ -18,7 +18,7 @@
 - [Day 14](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-14)
 - [Day 15](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-15)
 - [Day 16](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-16)
-- [Day 17](#day-17)
+- [Day 17](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-17)
 - [Day 18](#day-18)
 - [Day 19](#day-19)
 - [Day 20](#day-20)
