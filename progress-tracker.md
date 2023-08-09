@@ -90,7 +90,7 @@ Want to see more, check out [the previous journal entry](https://github.com/CBID
 
 - **Project**: [LinksHub](<https://www.linkshub.dev/>) and [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
 
-- **Description**: See [Day 2's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-2) and [Day 4's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-4) for the description of the projects. For LinksHub, I wanted to review and merge some PRs. In contrast, I wanted to revise and get my pull request for MDN Web Docs merged.
+- **Description**: See [Day 2's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-2) and [Day 4's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-4) for the description of the projects. For LinksHub, I wanted to review and merge some PRs. In contrast, I wanted to revise and get my pull request for MDN Web Docs merged.
 
 - **Tasks completed**:
 - LinkHub: I reviewed and merged two PRs.
@@ -230,7 +230,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 ## Day 16
 
 - **Project**: [FreeCodeCamp](https://contribute.freecodecamp.org/#/index)
-- **Description**: This is an update about a PR I've been working on. Check out [yesterday's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-15) to learn more.
+- **Description**: This is an update about a PR I've been working on. Check out [yesterday's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-15) to learn more.
 - **Tasks completed**: Git pulled changes maintainers have made.
 - **Challenges faced**: Passing the tests. It's still an uphill battle I have to fight.
 - **Resources used**: FreeCodecamp's [Discord](https://discord.com/invite/PRyKn3Vbay) community.
