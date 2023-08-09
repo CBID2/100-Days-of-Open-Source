@@ -18,7 +18,7 @@ What I want to accomplish in the next 100 days:
 - Learn how to describe my open source experience in my resume.
 - Learn to fix merge conflicts.
 - Learn more about Git commands.
-- Learn more about documentation maintainence
+- Learn more about documentation maintenance
 
 ### ✨ Action
 
@@ -37,8 +37,8 @@ What I want to accomplish in the next 100 days:
   - Promote their creation on social media and tech communities
 - Support the community.
   - Answer questions around open source topics.
-  - Give likes, reposts and/or comments on posts about open source on social media and blog posts to motivate others.
+  - Give likes, reposts, and/or comments on posts about open source on social media and blog posts to motivate others.
 
 ## 📈 Progress Track
 
-You can see my daily progress [here](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md)
+You can see my daily progress [here](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/table-of-contents.md)
