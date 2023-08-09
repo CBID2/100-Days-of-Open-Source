@@ -241,7 +241,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Project**: [Codecademy Docs](https://www.codecademy.com/resources/docs)
 - **Description**: See [Day 1's entry for context](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-1)
 - **Tasks completed**: Create a PR for an entry about MDX.
-- **Challenges faced**: I struggled with coming up with the syntax and examples, but with a little help with documentation, AI, and proofreading, I did it! :smile
+- **Challenges faced**: I struggled with coming up with the syntax and examples, but with a little help with documentation, AI, and proofreading, I did it! 😄
 - **Resources used**: [MDX Documentation](https://mdxjs.com/guides/frontmatter/)
 - **OpenSauced Highlight**: Not yet
 
