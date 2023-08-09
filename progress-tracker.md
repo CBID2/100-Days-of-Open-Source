@@ -24,7 +24,7 @@ The reviewer suggested that I add some text in the syntax template I created, so
 ## Day 2
 
 **Update**: I got a second review on my PR for Codeacademy Docs. I just needed to revise some typos and use one of the examples I created to make it more applicable to how developers and tech professionals who code actually use this element in their daily work.
-Want to see more, check out [the previous journal entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/day-1-and-2.md#day-1).
+Want to see more, check out [the previous journal entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-1).
 
 - **Project**: [LinksHub](https://www.linkshub.dev/)
 
@@ -237,6 +237,15 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **OpenSauced Highlight**: [PR for OpenSauced](https://insights.opensauced.pizza/feed/336)
 
 ## Day 17
+
+- **Project**: [Codecademy Docs](https://www.codecademy.com/resources/docs)
+- **Description**: See [Day 1's entry for context](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-1)
+- **Tasks completed**: Create a PR for an entry about MDX.
+- **Challenges faced**: I struggled with coming up with the syntax and examples, but with a little help with documentation, AI, and proofreading, I did it! :smile
+- **Resources used**: [MDX Documentation](https://mdxjs.com/guides/frontmatter/)
+- **OpenSauced Highlight**: Not yet
+
+## Day 18
 
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
