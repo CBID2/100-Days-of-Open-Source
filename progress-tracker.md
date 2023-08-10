@@ -251,7 +251,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Description**: [Go to the Description of Day 3 to learn more about this project](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-3). My goal is to improve parts of the Intro to Open Source course and fix the bug in their Chrome extension
 - **Tasks completed**: Create PRs for both issues.
 - **Challenges faced**: For the Chrome Extension issue, I had trouble with understanding how to add the new link, so I used Google Bard to explain this concept in simpler terms. Once I made the PR, the test for code format failed and it suggests that it could be solved with the fix command. I tried it but it did not work, which is weird since I installed the latest version of ESLint. Regardless, I'm determined to succeed! :)  
-- **Resources used**: [Bard]((https://support.google.com/bard/answer/13275745?hl=en&ref_topic=13194540&sjid=4377171688044085065-NA))
+- **Resources used**: [Bard](https://support.google.com/bard/answer/13275745?hl=en&ref_topic=13194540&sjid=4377171688044085065-NA))
 - **OpenSauced Highlight**: Not yet
 
 # Day 19
