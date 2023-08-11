@@ -256,6 +256,15 @@ I struggled with remembering the resources I used as inspiration for creating my
 
 # Day 19
 
+- **Project**:  [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- **Description**: Check out the description in [Day 2's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-2). I wanted to work on some PRs with the `help wanted` label 
+- **Tasks completed**: Submitted two PRs 
+- **Challenges faced**: Making sure the PR for the second issue gets pushed to the main repo's branch(I did not want the commits from the first PR to get in the second PR's branch). It took me a while to get it right but I did it! :) 
+- **Resources used**: My brain! ;)
+- **OpenSauced Highlight**: [Revising Chapter 6](https://insights.opensauced.pizza/feed/362)
+
+## Day 20
+
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
 - **Tasks completed**: [List the tasks you completed]
