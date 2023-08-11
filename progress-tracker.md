@@ -88,7 +88,7 @@ Want to see more, check out [the previous journal entry](https://github.com/CBID
 
 ## Day 5
 
-- **Project**: [LinksHub](<https://www.linkshub.dev/>) and [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
+- **Project**: [LinksHub](https://www.linkshub.dev/) and [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
 
 - **Description**: See [Day 2's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-2) and [Day 4's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-4) for the description of the projects. For LinksHub, I wanted to review and merge some PRs. In contrast, I wanted to revise and get my pull request for MDN Web Docs merged.
 
@@ -257,13 +257,22 @@ I struggled with remembering the resources I used as inspiration for creating my
 # Day 19
 
 - **Project**:  [MDN Web Docs](https://developer.mozilla.org/en-US/)
-- **Description**: Check out the description in [Day 2's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-2). I wanted to work on some PRs with the `help wanted` label 
-- **Tasks completed**: Submitted two PRs 
+- **Description**: Check out the description in [Day 2's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-2). I wanted to work on some PRs with the `help wanted` label
+- **Tasks completed**: Submitted two PRs
 - **Challenges faced**: Making sure the PR for the second issue gets pushed to the main repo's branch(I did not want the commits from the first PR to get in the second PR's branch). It took me a while to get it right but I did it! :)
 - **Resources used**: My brain! ;)
 - **OpenSauced Highlight**: [Revising Chapter 6](https://insights.opensauced.pizza/feed/362)
 
 ## Day 20
+
+- **Project**: [LinksHub](https://www.linkshub.dev/)
+- **Description**: [Day 5's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-5)
+- **Tasks completed**: Reviewed some PRs. Raised and assigned myself a few.
+- **Challenges faced**: Nothing really. It was a relaxing day.
+- **Resources used**: N/A
+- **OpenSauced Highlight**: [PR for Redhat's Documentation Guide](https://insights.opensauced.pizza/feed/370)
+  
+  ## Day 21
 
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
