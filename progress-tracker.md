@@ -28,7 +28,7 @@ Want to see more, check out [the previous journal entry](https://github.com/CBID
 
 - **Project**: [LinksHub](https://www.linkshub.dev/)
 
-- **Description**:  I co-maintain this project with Rupali Haldiya. It's a website that provides developers and other tech professionals with free resources to learn new or improve their tech skills.
+- **Description**:  I co-maintain this project with [Rupali Haldiya](https://github.com/rupali-codes). It's a website that provides developers and other tech professionals with free resources to learn new or improve their tech skills.
 
 - **Tasks completed**:
 - Reviewed Pull Requests from contributors
@@ -105,7 +105,7 @@ Want to see more, check out [the previous journal entry](https://github.com/CBID
 
 **Update**: I got my OpenSauced PR merged! :) See [Day 3's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-3) for context.
 
-- **Project(s)**: [The Odin Project](https://www.theodinproject.com/contributing ) . To see information about Codecademy and LinksHub, check out entries see [Day 2's](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-2) and [Day 1's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-1)
+- **Project(s)**: [The Odin Project](https://www.theodinproject.com/contributing ) . To see information about Codecademy and LinksHub, check out entries see [Day 2's](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-2) and [Day 1's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-1)
 
 - **Description**: The Odin Project is a free, open source curriculum on web development. They also provide developers tips on how to endure their job search journey.  As far as goals go, I wanted to get
 
@@ -160,7 +160,7 @@ Made some changes to the seed code in some of the steps.
 
 - **Project**: [Freecodecamp](https://github.com/freeCodeCamp/freeCodeCamp)
 
-- **Description**: [View previous entry to learn about the project](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-8)
+- **Description**: [View previous entry to learn about the project](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-8)
 I wanted to solve the merge conflicts in my draft PR.
 
 - **Tasks completed**:
@@ -175,7 +175,7 @@ I wanted to solve the merge conflicts in my draft PR.
 
 [The Good Docs Project](https://thegooddocsproject.dev/community/)
 
-- **Description**: [See this entry to learn about the project](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-3).  One of the maintainers pointed out that I was missing some files for my Merge request
+- **Description**: [See this entry to learn about the project](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-3).  One of the maintainers pointed out that I was missing some files for my Merge request
 - **Tasks completed**:
 - Work on a process and resources file for my template.
 - **Challenges faced**:
@@ -194,7 +194,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 ## Day 12
 
 - **Projects**: [Accessibleforall](https://github.com/AccessibleForAll), [MDN Web Docs](https://developer.mozilla.org/en-US/), and [LinksHub](https://www.linkshub.dev/)
-- **Description**: See my entries for [Day #2](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-2) and [Day #4](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-4) to learn about the other two projects. Accessibleforall is a resource developers can reference to learn the basics of web accessibility. My goal for LinksHub is to review and merge a couple of pull requests as well as approve some issues contributors raised. For MDN, my goal is to check if a PR that I created got merged. Lastly, I wanted to create a pull request for Accessibleforall.
+- **Description**: See my entries for [Day #2](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-2) and [Day #4](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-4) to learn about the other two projects. Accessibleforall is a resource developers can reference to learn the basics of web accessibility. My goal for LinksHub is to review and merge a couple of pull requests as well as approve some issues contributors raised. For MDN, my goal is to check if a PR that I created got merged. Lastly, I wanted to create a pull request for Accessibleforall.
 - **Tasks completed**: I fulfilled all three goals.
 - **Challenges faced**: For Accessibleforall, I had trouble finding the folder where the content was placed, so I referred to merged PRs to get context.
 - **Resources used**: [Exemplar Pull Request](https://github.com/AccessibleForAll/AccessibleWebDev/pull/356)
@@ -221,7 +221,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 ## Day 15
 
 - **Project**: [Freecodecamp](https://contribute.freecodecamp.org/#/index)
-- **Description**: To learn about the project, [Check out the description section of Day's 8 entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/days.md#day-8). The goal is to get farther in my draft pull request.
+- **Description**: To learn about the project, [Check out the description section of Day's 8 entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-8). The goal is to get farther in my draft pull request.
 - **Tasks completed**: I fixed the meta.JSON file and elaborated on one of the steps in the Cat photo gallery lesson.
 - **Challenges faced**: Fixing the JSON file.
 - **Resources used**: [My programming partner](https://github.com/shootermv)
@@ -272,7 +272,16 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Resources used**: N/A
 - **OpenSauced Highlight**: [PR for Redhat's Documentation Guide](https://insights.opensauced.pizza/feed/370)
   
-  ## Day 21
+## Day 21
+
+- **Project**: [Supabase](https://supabase.com/)
+- **Description**: This is an open source Firebase alternative. Someone new to open source pointed out that this project's documentation was missing key information. I volunteered to help her make a pull request.  
+- **Tasks completed**: Submit a PR with the document updates.
+- **Challenges faced**: It took the other contributor a while to clone Supabase's repository. She managed to get it eventually through my patient.  
+- **Resources used**: [Kami Lam](https://kamiviolet-portfoliio.netlify.app/)
+- **OpenSauced Highlight**: [Pull Request for MDN Web Docs](https://insights.opensauced.pizza/feed/373)
+
+## Day 22
 
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
