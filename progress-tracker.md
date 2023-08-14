@@ -292,6 +292,24 @@ I struggled with remembering the resources I used as inspiration for creating my
 
 ## Day 23
 
+- **Project**: [OpenSauced](https://intro.opensauced.pizza/#/)
+- **Description**: See the [description section of Day 3](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-3) for more context. Today, I wanted to transfer the files I created for my colleague's PR so that he can translate the intro course into Portuguese, his native language.
+- **Tasks completed**: I managed to commit the files to his PR. I also translated some of the files in an effort to aid him.
+- **Challenges faced**: I had trouble adding the files to PR due to not having access to his copied repository. I eventually solved this issue by asking him to grant me access to his repository.
+- **Resources used**: [How to add commits to someone else's pull request on GitHub](https://tech.sycamore.garden/add-commit-push-contributor-branch-git-github) and Google Translate
+- **OpenSauced Highlight**: [This is my PR to Codecademy](https://insights.opensauced.pizza/feed/376) and [this one is for Supabase](https://insights.opensauced.pizza/feed/375)
+
+## Day 24
+
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+  
+  ## Day 25
+  
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
 - **Tasks completed**: [List the tasks you completed]
