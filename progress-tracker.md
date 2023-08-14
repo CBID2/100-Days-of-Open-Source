@@ -283,9 +283,9 @@ I struggled with remembering the resources I used as inspiration for creating my
 
 ## Day 22
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [The Good Docs Project](https://thegooddocsproject.dev/)
+- **Description**: See the [description section of Day 3](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-3) for more context. I got feedback on my Merge Request,so I decided to focus on editing it.
+- **Tasks completed**: I revised parts of the MR
+- **Challenges faced**: Working with Gitlab. I haven't used GitLab in a while, so it was a bit of a learning curve. I got it eventually.
+- **Resources used**: My brain and reviewer's feedback. 
+- **OpenSauced Highlight**: [PR for Codeacademy](https://insights.opensauced.pizza/feed/374)
