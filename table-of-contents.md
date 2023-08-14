@@ -25,7 +25,7 @@
 - [Day 20](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-20)
 - [Day 21](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-21)
 - [Day 22](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-22)
-- [Day 23](#day-23)
+- [Day 23](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-23)
 - [Day 24](#day-24)
 - [Day 25](#day-25)
 - [Day 26](#day-26)
