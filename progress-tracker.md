@@ -289,3 +289,12 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Challenges faced**: Working with Gitlab. I haven't used GitLab in a while, so it was a bit of a learning curve. I got it eventually.
 - **Resources used**: My brain and reviewer's feedback. 
 - **OpenSauced Highlight**: [PR for Codeacademy](https://insights.opensauced.pizza/feed/374)
+
+## Day 23
+
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
