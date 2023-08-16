@@ -42,3 +42,4 @@ What I want to accomplish in the next 100 days:
 ## 📈 Progress Track
 
 You can see my daily progress [here](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/table-of-contents.md)
+>**Note:** PR = Pull Requests, a proposed line of code that goes into a large codebase. 
