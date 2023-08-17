@@ -1,4 +1,4 @@
-﻿# 100DaysOfOSS Progress Tracker
+# 100DaysOfOSS Progress Tracker
 
 ## Day 1
 
@@ -315,7 +315,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Tasks completed**: Revise part of the captions
 - **Challenges faced**: I struggled with marking with exact time the interviewers spoke and not revising grammar errors.  
 - **Resources used**: [Transcribing Audio to Text](https://www.w3.org/WAI/media/av/transcribing/)
-- **OpenSauced Highlight**: [PR for Red Hat Tech Writing Style Guide](https://insights.opensauced.pizza/feed/390) and [PR for LinksHub](https://insights.opensauced.pizza/feed?new=true&prurl=https%3A%2F%2Fgithub.com%2Frupali-codes%2FLinksHub%2Fpull%2F1575)
+- **OpenSauced Highlight**: [PR for Red Hat Tech Writing Style Guide](https://insights.opensauced.pizza/feed/390),[PR for MDN Web Docs](https://insights.opensauced.pizza/feed/394),and [PR for LinksHub](https://insights.opensauced.pizza/feed?new=true&prurl=https%3A%2F%2Fgithub.com%2Frupali-codes%2FLinksHub%2Fpull%2F1575)
   
 ## Day 26
   
