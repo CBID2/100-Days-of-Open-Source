@@ -310,6 +310,24 @@ I struggled with remembering the resources I used as inspiration for creating my
   
 ## Day 25
   
+- **Project**: [Virtual Coffee](https://virtualcoffee.io/)
+- **Description**: This is a tech community that focuses on supporting people during all stages of their coding journey. They run a podcast and created a repo where people can edit the subtitles. I focused on the one for the first episode in season one.  
+- **Tasks completed**: Revise part of the captions
+- **Challenges faced**: I struggled with marking with exact time the interviewers spoke and not revising grammar errors.  
+- **Resources used**: [Transcribing Audio to Text](https://www.w3.org/WAI/media/av/transcribing/)
+- **OpenSauced Highlight**: [PR for Red Hat Tech Writing Style Guide](https://insights.opensauced.pizza/feed/390) and [PR for LinksHub](https://github.com/rupali-codes/LinksHub/pull/1575)
+  
+## Day 26
+  
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+
+# Day 27
+  
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
 - **Tasks completed**: [List the tasks you completed]
@@ -317,7 +335,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Resources used**: [Include any helpful resources or documentation links]
 - **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
   
-## Day 26
+  # Day 28
   
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
