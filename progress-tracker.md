@@ -328,6 +328,15 @@ I struggled with remembering the resources I used as inspiration for creating my
   
 ## Day 27
   
+- **Project**: [OpenSauced Docs](https://docs.opensauced.pizza/)
+- **Description**: This is the official documentation for OpenSauced. I'm going a pull request where I add a GIF about the product's highlight feature. I noticed that there was no explainer page about the Insights section,so I want a PR for that one too. See the [issue](https://github.com/open-sauced/docs/issues/110) for more context.
+- **Tasks completed**: I made separate PRs for these features.
+- **Challenges faced**: I was debating on whether to actually do a separate page on the Insights feature, but then I decided to do it as a way to convey my ability to be proactive.
+- **Resources used**: [GIFSki](https://gif.ski/)
+- **OpenSauced Highlight**: Not yet. 
+
+# Day 28
+  
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
 - **Tasks completed**: [List the tasks you completed]
@@ -335,7 +344,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Resources used**: [Include any helpful resources or documentation links]
 - **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
 
-# Day 28
+# Day 29
   
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
