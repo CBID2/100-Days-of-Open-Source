@@ -1,4 +1,4 @@
-# 100DaysOfOSS Progress Tracker
+﻿# 100DaysOfOSS Progress Tracker
 
 ## Day 1
 
@@ -302,7 +302,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 ## Day 24
 
 - **Project**: [Red Hat Technical Writing Style Guide](https://stylepedia.net/) and [Red Hat Supplementary Guide](https://redhat-documentation.github.io/supplementary-style-guide/#_about_this_guide)
-- **Description**: These two guides are used to maintain the technical documentation for Red Hat, a software company that provides open source products. My goal for these two projects is aid in maintaining their documentation whether it's updating or omitting information. 
+- **Description**: These two guides are used to maintain the technical documentation for Red Hat, a software company that provides open source products. My goal for these two projects is aid in maintaining their documentation whether it's updating or omitting information.
 - **Tasks completed**: For the writing guide, I submitted a PR that adds a section about how to use possessives effectively. For the supplementary guide, I managed to submit a PR where certain terms are omitted due to their appearance on IBM's technical documentation.  
 - **Challenges faced**: Formatting was a major issue for the writing guide. XML is the main programming language for this guide. I never used this language before, so I read the patterns of the current codebase to help. Eventually, I found a way to implement the information that the maintainers requested
 - **Resources used**: My brain 😄
@@ -317,7 +317,16 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Resources used**: [Transcribing Audio to Text](https://www.w3.org/WAI/media/av/transcribing/)
 - **OpenSauced Highlight**: [PR for Red Hat Tech Writing Style Guide](https://insights.opensauced.pizza/feed/390),[PR for MDN Web Docs](https://insights.opensauced.pizza/feed/394),and [PR for LinksHub](https://insights.opensauced.pizza/feed?new=true&prurl=https%3A%2F%2Fgithub.com%2Frupali-codes%2FLinksHub%2Fpull%2F1575)
   
-## Day 26
+# Day 26
+  
+- **Project**: [The Odin Project](https://github.com/TheOdinProject/curriculum)
+- **Description**: I got feedback on my PR for the new lesson, so I'm making necessary changes. See[this issue for context](https://github.com/TheOdinProject/curriculum/issues/26042)
+- **Tasks completed**: Made revisions
+- **Challenges faced**: None really
+- **Resources used**: My brain :)
+- **OpenSauced Highlight**: [PR for Codecademy](https://insights.opensauced.pizza/feed/396)
+  
+## Day 27
   
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
@@ -326,16 +335,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Resources used**: [Include any helpful resources or documentation links]
 - **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
 
-# Day 27
-  
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
-  
-  # Day 28
+# Day 28
   
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
