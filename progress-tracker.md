@@ -1,4 +1,4 @@
-﻿# 100DaysOfOSS Progress Tracker
+# 100DaysOfOSS Progress Tracker
 
 ## Day 1
 
@@ -346,13 +346,13 @@ I struggled with remembering the resources I used as inspiration for creating my
 
 # Day 29
   
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
-  
+- **Project**: [Linkshub](https://github.com/rupali-codes/LinksHub)
+- **Description**: See [the description section of Day 20's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-20) to learn more about this project. Today, I wanted to keep things simple and review and merge PRs as well as assign and raise issues to the repository.
+- **Tasks completed**: I managed to merge and review a couple of PRs as well as assign, raise, and review a few issues. 
+- **Challenges faced**: None
+- **Resources used**: Not applicable
+- **OpenSauced Highlight**: N/A
+
 # Day 30
   
 - **Project**: [Project Name]
@@ -363,6 +363,15 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
   
 # Day 31
+  
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+
+# Day 32 
   
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
