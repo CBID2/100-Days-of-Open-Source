@@ -333,9 +333,18 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Tasks completed**: I made separate PRs for these features.
 - **Challenges faced**: I was debating on whether to actually do a separate page on the Insights feature, but then I decided to do it as a way to convey my ability to be proactive.
 - **Resources used**: [GIFSki](https://gif.ski/)
-- **OpenSauced Highlight**: Not yet. 
+- **OpenSauced Highlight**: Not yet.
 
 # Day 28
+  
+- **Project**: [OpenSauced/Docs](https://docs.opensauced.pizza/)
+- **Description**: Check out the description section of [yesterday's entry to learn about the project](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-27). I got feedback on my PR, so I wanted to make some revisions based on the maintainer's comments.
+- **Tasks completed**: I made another GIF for the highlights demo and redited my other GIF for the insights page demo.
+- **Challenges faced**: I've never really did video editing before so it was a challenge to do on GIFSki. Eventually, I got the hang of it.
+- **Resources used**: [GIFSki](https://gif.ski/)
+- **OpenSauced Highlight**: [This is the PR I used for my highlights demo GIF](https://insights.opensauced.pizza/feed/403)
+
+# Day 29
   
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
@@ -343,8 +352,17 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Challenges faced**: [Mention any challenges you encountered]
 - **Resources used**: [Include any helpful resources or documentation links]
 - **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
-
-# Day 29
+  
+# Day 30
+  
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+  
+# Day 31
   
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
