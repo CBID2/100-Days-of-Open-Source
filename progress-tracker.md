@@ -1,4 +1,4 @@
-# 100DaysOfOSS Progress Tracker
+﻿# 100DaysOfOSS Progress Tracker
 
 ## Day 1
 
@@ -348,19 +348,19 @@ I struggled with remembering the resources I used as inspiration for creating my
   
 - **Project**: [Linkshub](https://github.com/rupali-codes/LinksHub)
 - **Description**: See [the description section of Day 20's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-20) to learn more about this project. Today, I wanted to keep things simple and review and merge PRs as well as assign and raise issues to the repository.
-- **Tasks completed**: I managed to merge and review a couple of PRs as well as assign, raise, and review a few issues. 
+- **Tasks completed**: I managed to merge and review a couple of PRs as well as assign, raise, and review a few issues.
 - **Challenges faced**: None
 - **Resources used**: Not applicable
 - **OpenSauced Highlight**: N/A
 
 # Day 30
   
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [OpenSauced/into](https://intro.opensauced.pizza/#/)
+- **Description**: This is an intro course that OpenSauced has created to help people gain a better understanding of how to start their open source journey. For this project, I wanted to continue help two new members of OpenSauced with translating the course into their native languages. 
+- **Tasks completed**: I managed to translate the Glossary section and a few other files into French and Portuguese.  
+- **Challenges faced**: I had qualms about using Google Translate to help some of the files into these two languages(note: French is the language I have most familiarity with) due to the stigma that is often associated with it, but then, I remember the important thing was to be helpful. So, I only  used it if I had trouble writing certain phrases in both languages.
+- **Resources used**: Google Translate and my brain
+- **OpenSauced Highlight**: [PR for LinksHub](https://insights.opensauced.pizza/feed/410)
   
 # Day 31
   
@@ -371,7 +371,25 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Resources used**: [Include any helpful resources or documentation links]
 - **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
 
-# Day 32 
+# Day 32
+  
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+
+# Day 33
+  
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+
+# Day 34
   
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
