@@ -356,20 +356,20 @@ I struggled with remembering the resources I used as inspiration for creating my
 # Day 30
   
 - **Project**: [OpenSauced/into](https://intro.opensauced.pizza/#/)
-- **Description**: This is an intro course that OpenSauced has created to help people gain a better understanding of how to start their open source journey. For this project, I wanted to continue help two new members of OpenSauced with translating the course into their native languages. 
+- **Description**: This is an intro course that OpenSauced has created to help people gain a better understanding of how to start their open source journey. For this project, I wanted to continue help two new members of OpenSauced with translating the course into their native languages.
 - **Tasks completed**: I managed to translate the Glossary section and a few other files into French and Portuguese.  
 - **Challenges faced**: I had qualms about using Google Translate to help some of the files into these two languages(note: French is the language I have most familiarity with) due to the stigma that is often associated with it, but then, I remember the important thing was to be helpful. So, I only  used it if I had trouble writing certain phrases in both languages.
-- **Resources used**: Google Translate and my brain
+- **Resources used**: Google Translate, my brain, and [Geoffrey Logovi](https://github.com/geoffreylgv), my writing partner.
 - **OpenSauced Highlight**: [PR for LinksHub](https://insights.opensauced.pizza/feed/410)
   
 # Day 31
   
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [OpenSauced/into](https://intro.opensauced.pizza/#/)
+- **Description**: See the description section in [yesterday's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-30). Today, I wanted to finish translating the intro course with another contributor.
+- **Tasks completed**: Translated the other files into French.
+- **Challenges faced**: I was debating on whether to translate the sidebar content on the website too, so I decided to tag the maintainer for her input.
+- **Resources used**: Google Translate, my brain, and [Geoffrey Logovi](https://github.com/geoffreylgv), my writing partner.
+- **OpenSauced Highlight**: None yet. 
 
 # Day 32
   
@@ -390,6 +390,42 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
 
 # Day 34
+  
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+
+# Day 35
+  
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+
+# Day 36
+  
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+
+# Day 37
+  
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+  
+  # Day 38 
   
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
