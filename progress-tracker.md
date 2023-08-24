@@ -1,4 +1,4 @@
-﻿# 100DaysOfOSS Progress Tracker
+# 100DaysOfOSS Progress Tracker
 
 ## Day 1
 
@@ -373,12 +373,12 @@ I struggled with remembering the resources I used as inspiration for creating my
 
 # Day 32
   
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [OpenSauced/Intro](https://intro.opensauced.pizza/#/)
+- **Description**: I added more changes to the intro course. See[the description in yesterday's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-31)for context.
+- **Tasks completed**: I wanted to translate the sidebars to French.
+- **Challenges faced**: The translation would not appear in the deployed version of the pull request.Hopefully, I or my partner can solve it tomorrow.
+- **Resources used**: Google Translate
+- **OpenSauced Highlight**: Not yet 
 
 # Day 33
   
