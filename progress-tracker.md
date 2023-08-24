@@ -374,7 +374,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 # Day 32
   
 - **Project**: [OpenSauced/Intro](https://intro.opensauced.pizza/#/)
-- **Description**: I added more changes to the intro course. See [the description in yesterday's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-31)for context.
+- **Description**: I added more changes to the intro course. See [the description in yesterday's entry] (https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-31)for context.
 - **Tasks completed**: I wanted to translate the sidebars to French.
 - **Challenges faced**: The translation would not appear in the deployed version of the pull request.Hopefully, I or my partner can solve it tomorrow.
 - **Resources used**: Google Translate
