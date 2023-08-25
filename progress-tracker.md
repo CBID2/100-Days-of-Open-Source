@@ -1,4 +1,4 @@
-# 100DaysOfOSS Progress Tracker
+﻿# 100DaysOfOSS Progress Tracker
 
 ## Day 1
 
@@ -373,12 +373,12 @@ I struggled with remembering the resources I used as inspiration for creating my
 
 # Day 32
   
-- **Project**: [OpenSauced/Intro](https://intro.opensauced.pizza/#/)
-- **Description**: I added more changes to the intro course. See [the description in yesterday's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-31)for context.
-- **Tasks completed**: I wanted to translate the sidebars to French.
-- **Challenges faced**: The translation would not appear in the deployed version of the pull request.Hopefully, I or my partner can solve it tomorrow.
-- **Resources used**: Google Translate
-- **OpenSauced Highlight**: Not yet 
+- **Project**: [LinksHub](https://www.linkshub.dev/)
+- **Description**: See [the description section of Day 20's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-20) to learn more about this project. Today, I wanted to find the accessible equivalent's to the website's colors so they can be added to its' Tailwind config file.
+- **Tasks completed**: I managed to find the colors and their hexcodes.
+- **Challenges faced**: I've never used Tailwind CSS before so I was struggling with how to add the hexcodes to the file. Hopefully, I'll get some assistance with this. 
+- **Resources used**: [Converting Colors](https://convertingcolors.com/) and[WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
+- **OpenSauced Highlight**: [PR from LinksHub](https://insights.opensauced.pizza/feed?new=true&prurl=https%3A%2F%2Fgithub.com%2Frupali-codes%2FLinksHub%2Fpull%2F1597)
 
 # Day 33
   
