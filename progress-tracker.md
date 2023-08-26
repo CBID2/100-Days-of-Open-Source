@@ -369,25 +369,25 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Tasks completed**: Translated the other files into French.
 - **Challenges faced**: I was debating on whether to translate the sidebar content on the website too, so I decided to tag the maintainer for her input.
 - **Resources used**: Google Translate, my brain, and [Geoffrey Logovi](https://github.com/geoffreylgv), my writing partner.
-- **OpenSauced Highlight**: None yet. 
+- **OpenSauced Highlight**: None yet.
 
 # Day 32
   
 - **Project**: [LinksHub](https://www.linkshub.dev/)
 - **Description**: See [the description section of Day 20's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-20) to learn more about this project. Today, I wanted to find the accessible equivalent's to the website's colors so they can be added to its' Tailwind config file.
 - **Tasks completed**: I managed to find the colors and their hexcodes.
-- **Challenges faced**: I've never used Tailwind CSS before so I was struggling with how to add the hexcodes to the file. Hopefully, I'll get some assistance with this. 
+- **Challenges faced**: I've never used Tailwind CSS before so I was struggling with how to add the hexcodes to the file. Hopefully, I'll get some assistance with this.
 - **Resources used**: [Converting Colors](https://convertingcolors.com/) and[WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
 - **OpenSauced Highlight**: [PR from LinksHub](https://insights.opensauced.pizza/feed?new=true&prurl=https%3A%2F%2Fgithub.com%2Frupali-codes%2FLinksHub%2Fpull%2F1597)
 
 # Day 33
   
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [OpenSauced/Docs](https://docs.opensauced.pizza/)
+- **Description**: This is a continuation of two PRs that I started on Day #28. See [the description section of that entry for context](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-28)
+- **Tasks completed**: Made the necessary revisions to the GIFs
+- **Challenges faced**: I struggled with making sure that the new GIFs were short and conveyed the features in a clear way. With a bit of patient and experimentation, I prevailed! :)
+- **Resources used**: [View an animated GIF's frame in Preview](https://support.apple.com/guide/preview/view-an-animated-gifs-frames-prvw1016/mac)
+- **OpenSauced Highlight**: One of them got merged! Check out my [Highlight](https://insights.opensauced.pizza/feed/429) to learn more about the creation process. Check out my other [Highlight for Openai's Cookbook repository](https://insights.opensauced.pizza/feed/427). 
 
 # Day 34
   
@@ -425,7 +425,16 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Resources used**: [Include any helpful resources or documentation links]
 - **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
   
-  # Day 38 
+# Day 38
+  
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+
+# Day 39 
   
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
