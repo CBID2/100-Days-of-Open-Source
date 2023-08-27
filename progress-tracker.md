@@ -254,7 +254,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Resources used**: [Bard](https://support.google.com/bard/answer/13275745?hl=en&ref_topic=13194540&sjid=4377171688044085065-NA)
 - **OpenSauced Highlight**: Not yet
 
-# Day 19
+## Day 19
 
 - **Project**:  [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - **Description**: Check out the description in [Day 2's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-2). I wanted to work on some PRs with the `help wanted` label
@@ -317,7 +317,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Resources used**: [Transcribing Audio to Text](https://www.w3.org/WAI/media/av/transcribing/)
 - **OpenSauced Highlight**: [PR for Red Hat Tech Writing Style Guide](https://insights.opensauced.pizza/feed/390),[PR for MDN Web Docs](https://insights.opensauced.pizza/feed/394),and [PR for LinksHub](https://insights.opensauced.pizza/feed?new=true&prurl=https%3A%2F%2Fgithub.com%2Frupali-codes%2FLinksHub%2Fpull%2F1575)
   
-# Day 26
+## Day 26
   
 - **Project**: [The Odin Project](https://github.com/TheOdinProject/curriculum)
 - **Description**: I got feedback on my PR for the new lesson, so I'm making necessary changes. See[this issue for context](https://github.com/TheOdinProject/curriculum/issues/26042)
@@ -335,7 +335,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Resources used**: [GIFSki](https://gif.ski/)
 - **OpenSauced Highlight**: Not yet.
 
-# Day 28
+## Day 28
   
 - **Project**: [OpenSauced/Docs](https://docs.opensauced.pizza/)
 - **Description**: Check out the description section of [yesterday's entry to learn about the project](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-27). I got feedback on my PR, so I wanted to make some revisions based on the maintainer's comments.
@@ -344,7 +344,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Resources used**: [GIFSki](https://gif.ski/)
 - **OpenSauced Highlight**: [This is the PR I used for my highlights demo GIF](https://insights.opensauced.pizza/feed/403)
 
-# Day 29
+## Day 29
   
 - **Project**: [Linkshub](https://github.com/rupali-codes/LinksHub)
 - **Description**: See [the description section of Day 20's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-20) to learn more about this project. Today, I wanted to keep things simple and review and merge PRs as well as assign and raise issues to the repository.
@@ -353,7 +353,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Resources used**: Not applicable
 - **OpenSauced Highlight**: N/A
 
-# Day 30
+## Day 30
   
 - **Project**: [OpenSauced/into](https://intro.opensauced.pizza/#/)
 - **Description**: This is an intro course that OpenSauced has created to help people gain a better understanding of how to start their open source journey. For this project, I wanted to continue help two new members of OpenSauced with translating the course into their native languages.
@@ -362,7 +362,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Resources used**: Google Translate, my brain, and [Geoffrey Logovi](https://github.com/geoffreylgv), my writing partner.
 - **OpenSauced Highlight**: [PR for LinksHub](https://insights.opensauced.pizza/feed/410)
   
-# Day 31
+## Day 31
   
 - **Project**: [OpenSauced/into](https://intro.opensauced.pizza/#/)
 - **Description**: See the description section in [yesterday's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-30). Today, I wanted to finish translating the intro course with another contributor.
@@ -371,7 +371,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Resources used**: Google Translate, my brain, and [Geoffrey Logovi](https://github.com/geoffreylgv), my writing partner.
 - **OpenSauced Highlight**: None yet.
 
-# Day 32
+## Day 32
   
 - **Project**: [LinksHub](https://www.linkshub.dev/)
 - **Description**: See [the description section of Day 20's entry](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-20) to learn more about this project. Today, I wanted to find the accessible equivalent's to the website's colors so they can be added to its' Tailwind config file.
@@ -380,7 +380,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Resources used**: [Converting Colors](https://convertingcolors.com/) and[WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
 - **OpenSauced Highlight**: [PR from LinksHub](https://insights.opensauced.pizza/feed?new=true&prurl=https%3A%2F%2Fgithub.com%2Frupali-codes%2FLinksHub%2Fpull%2F1597)
 
-# Day 33
+## Day 33
   
 - **Project**: [OpenSauced/Docs](https://docs.opensauced.pizza/)
 - **Description**: This is a continuation of two PRs that I started on Day #28. See [the description section of that entry for context](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-28)
@@ -391,12 +391,12 @@ I struggled with remembering the resources I used as inspiration for creating my
 
 # Day 34
   
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [The Odin Project/curriculum](https://github.com/TheOdinProject/curriculum)
+- **Description**: This is a continuation of my lesson revision pull request. Check out my entry for [Day 14](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-14) for context. Right now, I wanted to add some parts of the lesson that I deleted.
+- **Tasks completed**: I managed to add a few parts back in.
+- **Challenges faced**: I had trouble with looking back and forth the lessons and making sure that each part corresponds with each other. 
+- **Resources used**: [The maintainer's comment](https://github.com/TheOdinProject/curriculum/pull/26118#discussion_r1299389290) and [TOP's intermediate-level lesson on Git](https://www.theodinproject.com/lessons/ruby-a-deeper-look-at-git)
+- **OpenSauced Highlight**: None at the moment
 
 # Day 35
   
@@ -407,7 +407,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Resources used**: [Include any helpful resources or documentation links]
 - **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
 
-# Day 36
+## Day 36
   
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
@@ -416,7 +416,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Resources used**: [Include any helpful resources or documentation links]
 - **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
 
-# Day 37
+## Day 37
   
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
@@ -425,7 +425,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Resources used**: [Include any helpful resources or documentation links]
 - **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
   
-# Day 38
+## Day 38
   
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
@@ -434,8 +434,17 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Resources used**: [Include any helpful resources or documentation links]
 - **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
 
-# Day 39 
+## Day 39
   
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+
+## Day 40
+
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
 - **Tasks completed**: [List the tasks you completed]
