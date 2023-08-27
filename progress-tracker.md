@@ -389,7 +389,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Resources used**: [View an animated GIF's frame in Preview](https://support.apple.com/guide/preview/view-an-animated-gifs-frames-prvw1016/mac)
 - **OpenSauced Highlight**: One of them got merged! Check out my [Highlight](https://insights.opensauced.pizza/feed/429) to learn more about the creation process. Check out my other [Highlight for Openai's Cookbook repository](https://insights.opensauced.pizza/feed/427). 
 
-# Day 34
+## Day 34
   
 - **Project**: [The Odin Project/curriculum](https://github.com/TheOdinProject/curriculum)
 - **Description**: This is a continuation of my lesson revision pull request. Check out my entry for [Day 14](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-14) for context. Right now, I wanted to add some parts of the lesson that I deleted.
@@ -398,7 +398,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Resources used**: [The maintainer's comment](https://github.com/TheOdinProject/curriculum/pull/26118#discussion_r1299389290) and [TOP's intermediate-level lesson on Git](https://www.theodinproject.com/lessons/ruby-a-deeper-look-at-git)
 - **OpenSauced Highlight**: None at the moment
 
-# Day 35
+## Day 35
   
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
