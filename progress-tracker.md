@@ -400,12 +400,12 @@ I struggled with remembering the resources I used as inspiration for creating my
 
 ## Day 35
   
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [OpenSauced/Docs](https://docs.opensauced.pizza/)
+- **Description**: Check out [the description in Day #3](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-3) to learn more about the project. Today, I wanted to add an explainer page about the pull request velocity feature. It was something that I was confused about when I first used their site, so I decided to make this contribution so that new users won't be confused like I was.
+- **Tasks completed**: I created the pull request
+- **Challenges faced**: I struggled with making sure that the metadata was formatted correctly. So, I went to the previous Markdown files in the codebase and used them as visual aids.  
+- **Resources used**: The Markdown files in the codebase
+- **OpenSauced Highlight**: None yet
 
 ## Day 36
   
@@ -444,6 +444,15 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
 
 ## Day 40
+
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+
+## Day 41
 
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
