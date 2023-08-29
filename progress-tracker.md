@@ -409,12 +409,12 @@ I struggled with remembering the resources I used as inspiration for creating my
 
 ## Day 36
   
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [OpenSauced Blog](https://dev.to/opensauced)
+- **Description**: This is OpenSauced's official blog.
+- **Tasks completed**: I wrote the outline and rough draft.
+- **Challenges faced**: I struggled with picking the components I wanted to focus on and discussing them in a creative way. Then, I remembered that OpenSauced uses pizza as a theme in their project, so I decided to write it like a recipe.  
+- **Resources used**: The projects I've been using for this challenge and ChatGPT to create the outline.
+- **OpenSauced Highlight**: Not yet
 
 ## Day 37
   
@@ -453,6 +453,33 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
 
 ## Day 41
+
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+
+## Day 42
+
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+
+## Day 43
+
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+  
+## Day 44
 
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
