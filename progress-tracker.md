@@ -387,14 +387,14 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Tasks completed**: Made the necessary revisions to the GIFs
 - **Challenges faced**: I struggled with making sure that the new GIFs were short and conveyed the features in a clear way. With a bit of patient and experimentation, I prevailed! :)
 - **Resources used**: [View an animated GIF's frame in Preview](https://support.apple.com/guide/preview/view-an-animated-gifs-frames-prvw1016/mac)
-- **OpenSauced Highlight**: One of them got merged! Check out my [Highlight](https://insights.opensauced.pizza/feed/429) to learn more about the creation process. Check out my other [Highlight for Openai's Cookbook repository](https://insights.opensauced.pizza/feed/427). 
+- **OpenSauced Highlight**: One of them got merged! Check out my [Highlight](https://insights.opensauced.pizza/feed/429) to learn more about the creation process. Check out my other [Highlight for Openai's Cookbook repository](https://insights.opensauced.pizza/feed/427).
 
 ## Day 34
   
 - **Project**: [The Odin Project/curriculum](https://github.com/TheOdinProject/curriculum)
 - **Description**: This is a continuation of my lesson revision pull request. Check out my entry for [Day 14](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-14) for context. Right now, I wanted to add some parts of the lesson that I deleted.
 - **Tasks completed**: I managed to add a few parts back in.
-- **Challenges faced**: I had trouble with looking back and forth the lessons and making sure that each part corresponds with each other. 
+- **Challenges faced**: I had trouble with looking back and forth the lessons and making sure that each part corresponds with each other.
 - **Resources used**: [The maintainer's comment](https://github.com/TheOdinProject/curriculum/pull/26118#discussion_r1299389290) and [TOP's intermediate-level lesson on Git](https://www.theodinproject.com/lessons/ruby-a-deeper-look-at-git)
 - **OpenSauced Highlight**: None at the moment
 
@@ -418,12 +418,12 @@ I struggled with remembering the resources I used as inspiration for creating my
 
 ## Day 37
   
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [MDN Web Docs]()
+- **Description**: Check out the description section in[Day #4](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-4) to learn more about it. My goal for today is to make a PR that elaborates on how to use tokens and sections in the chapter on the HTML `autocomplete` attribute.
+- **Tasks completed**: I managed to create the pull request.
+- **Challenges faced**: While I managed to find information on sections and tokens, I struggled with finding a way to explain it in a way both developers and non-tech professionals can understand. What helped me get over it was consistently asking myself "What's a simpler way to say this?".
+- **Resources used**: [HTML Standard for Autofill Tokens](https://html.spec.whatwg.org/#autofill-detail-tokens) and [W3C Standard for autocomplete attribute](https://www.w3.org/WAI/standards-guidelines/act/rules/73f2c2/2022-01-28/#correct-autocomplete-field)
+- **OpenSauced Highlight**: My PR from [Day #27](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-27) has been merged! :smile: Check out the [highlight](https://insights.opensauced.pizza/feed/438) to learn more about my process.
   
 ## Day 38
   
@@ -480,6 +480,33 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
   
 ## Day 44
+
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+  
+## Day 45
+
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+
+## Day 46
+
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+
+## Day 47
 
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
