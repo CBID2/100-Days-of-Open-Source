@@ -418,8 +418,8 @@ I struggled with remembering the resources I used as inspiration for creating my
 
 ## Day 37
   
-- **Project**: [MDN Web Docs]()
-- **Description**: Check out the description section in[Day #4](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-4) to learn more about it. My goal for today is to make a PR that elaborates on how to use tokens and sections in the chapter on the HTML `autocomplete` attribute.
+- **Project**: [MDN Web Docs](https://github.com/mdn/content)
+- **Description**: Check out the description section in [Day #4](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-4) to learn more about it. My goal for today is to make a PR that elaborates on how to use tokens and sections in the chapter on the HTML `autocomplete` attribute.
 - **Tasks completed**: I managed to create the pull request.
 - **Challenges faced**: While I managed to find information on sections and tokens, I struggled with finding a way to explain it in a way both developers and non-tech professionals can understand. What helped me get over it was consistently asking myself "What's a simpler way to say this?".
 - **Resources used**: [HTML Standard for Autofill Tokens](https://html.spec.whatwg.org/#autofill-detail-tokens) and [W3C Standard for autocomplete attribute](https://www.w3.org/WAI/standards-guidelines/act/rules/73f2c2/2022-01-28/#correct-autocomplete-field)
@@ -427,12 +427,12 @@ I struggled with remembering the resources I used as inspiration for creating my
   
 ## Day 38
   
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [MDN Web Docs](https://github.com/mdn/content)
+- **Description**: This is a continuation of yesterday's task Check the [description section](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-37) for context. I got feedback on my pull request so I wanted to implement the maintainer's advice.
+- **Tasks completed**: I made a few revisions to my explanation about how tokens are used in the HTML `autocomplete` tribute.
+- **Challenges faced**: The maintainer suggests that I only mention the requirements. It was pretty difficult to do since the sources I found never really mention the requirement. 
+- **Resources used**: [The maintainer's suggestions](https://github.com/mdn/content/pull/28828#discussion_r1310740259), [HTML Standard for Autofill Tokens](https://html.spec.whatwg.org/#autofill-detail-tokens), and [W3C Standard for autocomplete attribute](https://www.w3.org/WAI/standards-guidelines/act/rules/73f2c2/2022-01-28/#correct-autocomplete-field)
+- **OpenSauced Highlight**: My PR for LinksHub got merged! 😆 Check out the [highlight](https://insights.opensauced.pizza/feed/441) on my OpenSauced profile to learn more about how I made the change.
 
 ## Day 39
   
@@ -507,6 +507,41 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
 
 ## Day 47
+
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+  
+## Day 48
+
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+  
+## Day 49
+
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+  
+## Day 50
+
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+## Day 51
 
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
