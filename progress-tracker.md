@@ -441,7 +441,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Tasks completed**: We fixed the formatting and I turned my draft PR into a merge ready one! 😄
 - **Challenges faced**: Even though the code I had was correct(the owner tried it in her own computer to prove this), my terminal kept saying there are errors. After hours of revision, the owner and I decided to stick with what we came with. Through this experience, I learned that it's sometimes best to stick with your judgement and that the terminal is not always correct.
 - **Resources used**: [Emma Dawson](https://github.com/EmmaDawsonDev), my programming partner and owner of this project! 😄
-- **OpenSauced Highlight**: I published an article to OpenSauced's blog! :smile: Check out the [Highlight](https://insights.opensauced.pizza/feed/443) in my profile to learn more about my writing process and read it!
+- **OpenSauced Highlight**: I published an article to OpenSauced's blog! :smile: Check out the [Highlight](https://insights.opensauced.pizza/feed/443) in my profile to learn more about my writing process and read it! 😄
 
 ## Day 40
 
