@@ -320,7 +320,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 ## Day 26
   
 - **Project**: [The Odin Project](https://github.com/TheOdinProject/curriculum)
-- **Description**: I got feedback on my PR for the new lesson, so I'm making necessary changes. See [this issue for context](https://github.com/TheOdinProject/curriculum/issues/26042)
+- **Description**: I got feedback on my PR for the new lesson, so I'm making necessary changes. See [this issue for context](https://github.com/TheOdinProject/curriculum/issues/26042).
 - **Tasks completed**: Made revisions
 - **Challenges faced**: None really
 - **Resources used**: My brain :)
