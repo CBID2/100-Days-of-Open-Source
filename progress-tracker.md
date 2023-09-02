@@ -445,12 +445,12 @@ I struggled with remembering the resources I used as inspiration for creating my
 
 ## Day 40
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [Virtual Coffee/podcast transcriptions](https://github.com/Virtual-Coffee/podcast-transcripts#fixing-formatting-issues)
+- **Description**: This is a continuation of a pull request that I started on Day #25. Check out its [description section](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-25) for more context. I decided to finish half of the beginning.
+- **Tasks completed**: Revise the first part of the transcription.
+- **Challenges faced**: At first, I struggled with finding the time snippets for each part of the episode's transcription. However, I decided to use OtterNotes as an aid and managed to finish half of the beginning quickly.
+- **Resources used**: [OtterNotes](https://chrome.google.com/webstore/detail/otterai-record-and-transc/bnmojkbbkkonlmlfgejehefjldooiedp)
+- **OpenSauced Highlight**: I decided to try something new a post an issue. Check out [my Highlight](https://insights.opensauced.pizza/feed/445) to learn more about it.
 
 ## Day 41
 
