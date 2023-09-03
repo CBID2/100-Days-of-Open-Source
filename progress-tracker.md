@@ -454,11 +454,11 @@ I struggled with remembering the resources I used as inspiration for creating my
 
 ## Day 41-42
 
-- **Project**: [OpenSauced/docs]()
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
+- **Project**: [OpenSauced/docs](https://github.com/open-sauced/docs)
+- **Description**: For the past two days, I have been working on creating a explainer page about OpenSauced's DevCard feature. 
+- **Tasks completed**: On Day #41, I created the content and a array for the sidebar.  
+- **Challenges faced**: On Day #41, I realized that I did not create a separate branch for my PR so there was alot of revert commits and creating new branches.
+- **Resources used**: The [issue](https://github.com/open-sauced/docs/issues/156)
 - **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
 
 ## Day 43
