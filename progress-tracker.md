@@ -458,7 +458,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Description**: For the past two days, I have been working on creating a explainer page about OpenSauced's DevCard feature.
 - **Tasks completed**: On Day #41, I created the content and a array for the sidebar.  Today(Day #42), I created the screenshots of the dev.card. 
 - **Challenges faced**: On Day #41, I realized that I did not create a separate branch for my PR so there was alot of revert commits and creating new branches. Today (#Day 42), I was debating on whether to add my screenshots to my PR or place them in the comment section of the issue so one of the maintainers can give their feedback on them. Eventually, I decided to go with the latter because I felt it would be best to get the maintainers' approval first
-- **Resources used**: The [issue](https://github.com/open-sauced/docs/issues/156)
+- **Resources used**: [The maintainer's instructions](https://github.com/open-sauced/docs/issues/156) for the issue. 
 - **OpenSauced Highlight**: My PR for LinksHub got merged! Check out the   [Highlight](https://insights.opensauced.pizza/feed/447) to learn more about the creation process.
 
 ## Day 43
