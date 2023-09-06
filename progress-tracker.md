@@ -457,28 +457,20 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Project**: [OpenSauced/docs](https://github.com/open-sauced/docs)
 - **Description**: For the past two days, I have been working on creating a explainer page about OpenSauced's DevCard feature.
 - **Tasks completed**: On Day #41, I created the content and a array for the sidebar.  Today(Day #42), I created the screenshots of the dev.card. 
-- **Challenges faced**: On Day #41, I realized that I did not create a separate branch for my PR so there was alot of revert commits and creating new branches. Today (#Day 42), I was debating on whether to add my screenshots to my PR or place them in the comment section of the issue so one of the maintainers can give their feedback on them. Eventually, I decided to go with the latter because I felt it would be best to get the maintainers' approval first
-- **Resources used**: [The maintainer's instructions](https://github.com/open-sauced/docs/issues/156) for the issue. 
+- **Challenges faced**: On Day #41, I realized that I did not create a separate branch for my PR so there was alot of revert commits and creating new branches. Today (#Day 42), I was debating on whether to add my screenshots to my PR or place them in the comment section of the issue so one of the maintainers can give their feedback on them. Eventually, I decided to go with the latter because I felt it would be best to get the maintainers' approval first.
+- **Resources used**: [The maintainer's instructions](https://github.com/open-sauced/docs/issues/156) for the issue.
 - **OpenSauced Highlight**: My PR for LinksHub got merged! Check out the   [Highlight](https://insights.opensauced.pizza/feed/447) to learn more about the creation process.
 
-## Day 43
+## Day 43-44
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [OpenSauced/docs](https://github.com/open-sauced/docs)
+- **Description**: Read [Day 41-42's description section](#day-41-42)to learn about OpenSauced. Day #43 was Labor Day, so I wanted to keep things simple and triage some issues. Today (Day #43), a PR that I have been working on for months finally got merged(woohoo! 😄),so I decided to write a blog post about it for my blog.
+- **Tasks completed**: For Day #43, I managed to triage a couple of issues. For today, I managed to create a title and outline for my blog post.
+- **Challenges faced**: If I had to pick the task that was challenging, it would be creating my outline. I struggled with finding a way to make my title and SEO-friendly. Eventually, I decided to stop worrying about the SEO so much and decided to keep my title simple yet engaging.
+- **Resources used**: [isitwp
+headline analyzer tool](https://www.isitwp.com/headline-analyzer/)
+- **OpenSauced Highlight**: My PR for LinksHub got merged! Check out the   [Highlight](https://insights.opensauced.pizza/feed/453) to learn more about the creation process.
 
-## Day 44
-
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
-  
 ## Day 45
 
 - **Project**: [Project Name]
@@ -496,7 +488,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Challenges faced**: [Mention any challenges you encountered]
 - **Resources used**: [Include any helpful resources or documentation links]
 - **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
-
+  
 ## Day 47
 
 - **Project**: [Project Name]
@@ -514,7 +506,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Challenges faced**: [Mention any challenges you encountered]
 - **Resources used**: [Include any helpful resources or documentation links]
 - **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
-  
+
 ## Day 49
 
 - **Project**: [Project Name]
@@ -541,7 +533,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Challenges faced**: [Mention any challenges you encountered]
 - **Resources used**: [Include any helpful resources or documentation links]
 - **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
-
+  
 ## Day 52
 
 - **Project**: [Project Name]
@@ -550,7 +542,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Challenges faced**: [Mention any challenges you encountered]
 - **Resources used**: [Include any helpful resources or documentation links]
 - **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
-  
+
 ## Day 53
 
 - **Project**: [Project Name]
@@ -559,7 +551,7 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Challenges faced**: [Mention any challenges you encountered]
 - **Resources used**: [Include any helpful resources or documentation links]
 - **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
-
+  
 ## Day 54
 
 - **Project**: [Project Name]
@@ -586,8 +578,17 @@ I struggled with remembering the resources I used as inspiration for creating my
 - **Challenges faced**: [Mention any challenges you encountered]
 - **Resources used**: [Include any helpful resources or documentation links]
 - **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
-  
+
 ## Day 57
+
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+  
+## Day 58
 
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
