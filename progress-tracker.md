@@ -473,12 +473,12 @@ headline analyzer tool](https://www.isitwp.com/headline-analyzer/)
 
 ## Day 45
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [RedHat Supplementary Guide](https://github.com/redhat-documentation/supplementary-style-guide)
+- **Description**: This is a style guide that RedHat uses for product documentation as an alternative to the IBM Style guide. I wanted to work on [number 21 in this issue](https://github.com/redhat-documentation/supplementary-style-guide/issues/147)
+- **Tasks completed**: So far, I managed to create the PR for it.
+- **Challenges faced**: I debated on whether to go ahead and make the PR or wait for it, but then I saw the Help Wanted sign and remembered that they automatically accept PRs with this label.
+- **Resources used**: [This chapter](https://redhat-documentation.github.io/supplementary-style-guide/#_s) has been helpful in me finding where to make the edit. 
+- **OpenSauced Highlight**: My first docs-related PR for FreeCodecamp got merged! 😄 It's a nice easy break after doing one for their curriculum (check[Day 8](#day-8) and [Day](#day-9) for more context). To learn more, check out [the Highlight here](https://insights.opensauced.pizza/feed/456)
   
 ## Day 46
 
