@@ -491,12 +491,12 @@ headline analyzer tool](https://www.isitwp.com/headline-analyzer/)
   
 ## Day 47
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [The Good Docs Project](https://thegooddocsproject.dev/)
+- **Description**: See the description in [Day 3](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-3) to learn more about the project. I had a meeting with one of the maintainers on how to improve my troubleshooting template.
+- **Tasks completed**: I managed to implement most of her suggestions.
+- **Challenges faced**: During the meeting, I had trouble visualizing how to format certain parts of the template. I told her my issue and she wrote her suggestions on my rough draft.
+- **Resources used**: [This is the rough draft](https://docs.google.com/document/d/14t2tKbbTkH4Qgttb0v7cZ6ngKF8XL-sRvTfmiz1FR3s/edit#heading=h.6j0tdnjpq2tg)
+- **OpenSauced Highlight**: None for today.
 
 ## Day 48
 
