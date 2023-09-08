@@ -46,7 +46,7 @@
 - [Days 41-42](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-41-42)
 - [Day 43-44](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-43-44)
 - [Day 45](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-45)
-- [Day 46](#day-46)
+- [Day 46](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-46)
 - [Day 47](#day-47)
 - [Day 48](#day-48)
 - [Day 49](#day-49)

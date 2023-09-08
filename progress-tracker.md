@@ -482,12 +482,12 @@ headline analyzer tool](https://www.isitwp.com/headline-analyzer/)
   
 ## Day 46
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [whatwg/html](https://github.com/whatwg/html)
+- **Description**: This is where the standards of HTML are born. As a new contributor to this project, I decided to pick [this issue](https://github.com/whatwg/html/issues/3296) to gain an idea of the workflow. To begin, I plan on writing out the cheatsheet on Google Docs.  
+- **Tasks completed**: So far, I completed most of the Tags section
+- **Challenges faced**: Since there's so much information on HTML, I could not decide on which information I should present, but I then I remember that it's best to not put every single thing and only put the basics.
+- **Resources used**: [This source gave me a refresher](https://htmlcheatsheet.com/)
+- **OpenSauced Highlight**: I raised an issue on FreeCodeCamp's repo for the first time! 😄 Check out[my highlight](https://insights.opensauced.pizza/feed/459) to learn more! 😄
   
 ## Day 47
 
