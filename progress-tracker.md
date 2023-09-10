@@ -500,12 +500,12 @@ headline analyzer tool](https://www.isitwp.com/headline-analyzer/)
 
 ## Day 48
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [MDN Web Docs](https://github.com/mdn/content)
+- **Description**: This is a continuation of a pull request I started on Day #38 .  Check [the description section](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-38) for context. Today, I wanted to implemented more of the maintainer's feedback on my pull request.
+- **Tasks completed**: I implemented [this piece of feedback](https://github.com/mdn/content/pull/28828#discussion_r1310740259) into my pull request.
+- **Challenges faced**: I struggled a bit with wording the paragraph in a simpler way. What helped me is asking myself "How can I explain this to a five-year-old?".  
+- **Resources used**: [The maintainer's comment](https://github.com/mdn/content/pull/28828#discussion_r1310740259).
+- **OpenSauced Highlight**: I got my pull request from Codeacademy Docs merged today! :) Check out [the highlight](https://insights.opensauced.pizza/feed) to learn more about the creation process.
 
 ## Day 49
 
@@ -589,6 +589,42 @@ headline analyzer tool](https://www.isitwp.com/headline-analyzer/)
 - **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
   
 ## Day 58
+
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+
+## Day 59
+
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+
+## Day 60
+
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+
+## Day 61
+
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+
+## Day 62
 
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
