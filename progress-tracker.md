@@ -509,12 +509,12 @@ headline analyzer tool](https://www.isitwp.com/headline-analyzer/)
 
 ## Day 49
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [LinksHub](https://github.com/rupali-codes/LinksHub)
+- **Description**: See [the description section in Day #2](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-2) to learn more about the project. Today, I wanted to continue working on adding a pagination feature with my partner, Chris Nowicki.
+- **Tasks completed**: So far, we managed to add page numbers at the bottom of the footer.
+- **Challenges faced**: There were two merge conflicts that needed to be solved. I tried accessing the merge conflict editor on Visual Studio Code but it keep saying that my working tree is clean. So, I asked my partner for assistance and we finally solved by starting a new pull request.  
+- **Resources used**: My coding partner, [Chris Nowicki](https://github.com/chris-nowicki)
+- **OpenSauced Highlight**: None yet
   
 ## Day 50
 
