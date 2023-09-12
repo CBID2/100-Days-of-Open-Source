@@ -518,12 +518,12 @@ headline analyzer tool](https://www.isitwp.com/headline-analyzer/)
   
 ## Day 50
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [LinksHub](https://github.com/rupali-codes/LinksHub)
+- **Description**: See [the description section in Day #2](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-2) to learn more about the project. Today, is a continuation of the PR I worked on with Chris(see [yesterday's entry for more context](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-49)). This time, I did a paired programming session with Chris to figure out how to style the pagination feature we've been coming up with.
+- **Tasks completed**: We came up with two color schemes.
+- **Challenges faced**: The challenge was picking the scheme that best suited the design. I wanted to go with [option 1](see [the first screenshot in this comment](https://github.com/rupali-codes/LinksHub/pull/1660#issuecomment-1714837356) for context) while Chris seemed to like [option 2](see [the second screenshot in this comment](https://github.com/rupali-codes/LinksHub/pull/1660#issuecomment-1714837356) for context). So, we decided to share our thoughts with one of the maintainers. They liked my suggestion, so we went with that one.  
+- **Resources used**:  My coding partner, [Chris Nowicki](https://github.com/chris-nowicki)
+- **OpenSauced Highlight**: None yet
   
 ## Day 51
 
