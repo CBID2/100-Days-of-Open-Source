@@ -49,7 +49,7 @@
 - [Day 46](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-46)
 - [Day 47](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-47)
 - [Day 48](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-48)
-- [Day 49]([#day-49](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-49))
+- [Day 49](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-49)
 - [Day 50](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-50)
 - [Day 51](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-51)
 - [Day 52](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-52)
