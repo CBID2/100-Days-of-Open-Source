@@ -527,12 +527,12 @@ headline analyzer tool](https://www.isitwp.com/headline-analyzer/)
   
 ## Day 51
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [OpenSauced/Intro](https://github.com/open-sauced/intro)
+- **Description**: This is a continuation of a pull request that I started [check out the description of Day #30](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-30) to learn more. I had to fix a merge conflict.
+- **Tasks completed**: I managed to fix the merge conflict.
+- **Challenges faced**: The merge conflict was so great that most of the commits were gone. Luckily, my partner did his own pull request on my fork so I used the `git cherry-pick` command and got them back. Thank goodness! 🙏 😄
+- **Resources used**: My [secret weapon](https://github.com/CBID2/intro/pull/1)
+- **OpenSauced Highlight**: My explainer page for OpenSauced is now merged!😄 Check out [the highlight](https://insights.opensauced.pizza/feed/465) to learn more about my creation process. 
   
 ## Day 52
 
