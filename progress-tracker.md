@@ -532,7 +532,7 @@ headline analyzer tool](https://www.isitwp.com/headline-analyzer/)
 - **Tasks completed**: I managed to fix the merge conflict.
 - **Challenges faced**: The merge conflict was so great that most of the commits were gone. Luckily, my partner did his own pull request on my fork so I used the `git cherry-pick` command and got them back. Thank goodness! 🙏 😄
 - **Resources used**: My [secret weapon](https://github.com/CBID2/intro/pull/1)
-- **OpenSauced Highlight**: My explainer page for OpenSauced is now merged!😄 Check out [the highlight](https://insights.opensauced.pizza/feed/465) to learn more about my creation process. 
+- **OpenSauced Highlight**: My explainer page for OpenSauced is now merged!😄 Check out [the highlight](https://insights.opensauced.pizza/feed/465) to learn more about my creation process.
   
 ## Day 52
 
