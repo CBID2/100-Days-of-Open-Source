@@ -536,12 +536,12 @@ headline analyzer tool](https://www.isitwp.com/headline-analyzer/)
   
 ## Day 52
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [Open Source Guides](https://opensource.guide/)
+- **Description**: This is GitHub's official guides to navigating the world of open source. One of the maintainers of this project requested a few of the members in GitHub's maintainer community to volunteer in updating these guides. @UlisesGascon and I volunteered to revise the [How to Contribute to Open Source guide](https://opensource.guide/how-to-contribute/). Today I wanted to set up the PR so that we can start working on it.
+- **Tasks completed**: I managed to create the PR
+- **Challenges faced**: I struggled with updating my terminal to the latest version of Ruby and Blunder. I solved that challenge by following the documentation. Next I had trouble with making the host browser show up on my computer. I tried using Gitpod to no avail. When I tried it on Visual Studio Code via computer, it worked! 😄 
+- **Resources used**: [The project's contributing guide](https://github.com/github/opensource.guide/blob/main/CONTRIBUTING.md), [this tutorial on updating Ruby](https://r3id.medium.com/updating-ruby-via-brew-7d3256e744ce) and [the documentation for updating Blunder](https://bundler.io/guides/bundler_2_upgrade.html)
+- **OpenSauced Highlight**: My pull request for [Visual Coffee's Preptember repository](https://github.com/Virtual-Coffee/vc-preptember) got merged! :smile. Check out my [highlight here](https://insights.opensauced.pizza/feed/470) to learn more
 
 ## Day 53
 
