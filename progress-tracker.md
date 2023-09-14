@@ -541,7 +541,7 @@ headline analyzer tool](https://www.isitwp.com/headline-analyzer/)
 - **Tasks completed**: I managed to create the PR
 - **Challenges faced**: I struggled with updating my terminal to the latest version of Ruby and Blunder. I solved that challenge by following the documentation. Next I had trouble with making the host browser show up on my computer. I tried using Gitpod to no avail. When I tried it on Visual Studio Code via computer, it worked! 😄 
 - **Resources used**: [The project's contributing guide](https://github.com/github/opensource.guide/blob/main/CONTRIBUTING.md), [this tutorial on updating Ruby](https://r3id.medium.com/updating-ruby-via-brew-7d3256e744ce) and [the documentation for updating Blunder](https://bundler.io/guides/bundler_2_upgrade.html)
-- **OpenSauced Highlight**: My pull request for [Visual Coffee's Preptember repository](https://github.com/Virtual-Coffee/vc-preptember) got merged! :smile. Check out my [highlight here](https://insights.opensauced.pizza/feed/470) to learn more
+- **OpenSauced Highlight**: My pull request for [Visual Coffee's Preptember repository](https://github.com/Virtual-Coffee/vc-preptember) got merged! :smile. Check out my [highlight here](https://insights.opensauced.pizza/feed/470) to learn more. 
 
 ## Day 53
 
