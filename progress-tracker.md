@@ -554,12 +554,20 @@ headline analyzer tool](https://www.isitwp.com/headline-analyzer/)
   
 ## Day 54
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [OpenSauced/Intro](https://github.com/open-sauced/intro)
+- **Description**: This is a continuation of a pull request that I started [check out the description of Day #30](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-30) to learn more. The maintainer pointed out that the sidebar was not hyperlinked and the formatting was disorganized. So I decided to work on fixing those issues. 
+- **Tasks completed**: I managed to get to hyperlink the sidebar and the statements that directed each chapter.
+- **Challenges faced**: The major challenge I had was hyperlinking. I tried using the following syntax:
+```
+[Internal link to section](#name of section)
+```
+But then, I realized that it did not work. So I decided to use this syntax:
+```
+[Internal Link to section](/guides/content/editing-an-existing-page#modifying-front-matter)
+``` 
+and it worked! 😄
+- **Resources used**: This[Markdown guide by AnVIL](https://anvilproject.org/guides/content/creating-links) was a great refresher. 
+- **OpenSauced Highlight**: My first PR to GitHub has been merged. Check out [my Highlight here](https://insights.opensauced.pizza/feed/473) to learn more about my creation process.
 
 ## Day 55
 
