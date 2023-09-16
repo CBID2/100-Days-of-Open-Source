@@ -566,7 +566,7 @@ But then, I realized that it did not work. So I decided to use this syntax:
 [Internal Link to section](/guides/content/editing-an-existing-page#modifying-front-matter)
 ``` 
 and it worked! 😄
-- **Resources used**: This[Markdown guide by AnVIL](https://anvilproject.org/guides/content/creating-links) was a great refresher. 
+- **Resources used**: This [Markdown guide by AnVIL](https://anvilproject.org/guides/content/creating-links) was a great refresher. 
 - **OpenSauced Highlight**: My first PR to GitHub has been merged. Check out [my Highlight here](https://insights.opensauced.pizza/feed/473) to learn more about my creation process.
 
 ## Day 55
