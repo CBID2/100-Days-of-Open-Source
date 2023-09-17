@@ -581,7 +581,7 @@ and it worked! 😄
 - **Tasks completed**: So far, I added documentation to the README file mentioned in [ykdojo's comment](https://github.com/propeldata/ui-kit/issues/119#issue-1899214079).
 - **Challenges faced**: I struggled with figuring out how this feature is used, so I analyzed the other columns in the README file and copied the writing style to ensure consistency.
 - **Resources used**: [This PR](https://github.com/propeldata/ui-kit/pull/110) gave me an idea on what to write in the README.
-- **OpenSauced Highlight**: I raised an issue for a beginner-friendly project called[BeforeIDieAchievements](https://github.com/BeforeIDieCode/BeforeIDieAchievements). Check out [my Highlight](https://insights.opensauced.pizza/feed/474) to learn more.
+- **OpenSauced Highlight**: I raised an issue for a beginner-friendly project called [BeforeIDieAchievements](https://github.com/BeforeIDieCode/BeforeIDieAchievements). Check out [my Highlight](https://insights.opensauced.pizza/feed/474) to learn more.
 
 ## Day 56
 
