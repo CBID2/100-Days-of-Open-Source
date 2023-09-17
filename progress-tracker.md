@@ -571,12 +571,12 @@ and it worked! 😄
 
 ## Day 55
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [propeldata/ui-kit](https://github.com/propeldata/ui-kit)
+- **Description**: This project provides React components for data visualization and quickly building data analytics dashboards. I met, ykdojo one of the project's maintainers, on a Twitter Space about using open source to gain experience for tech jobs. After hearing me talk about how I am doing documentation-focused contributions to expand my technical writing skillset, he tagged me [in a issue where documentation is needed for a feature that has recently released](https://github.com/propeldata/ui-kit/issues/119).
+- **Tasks completed**: So far, I added documentation to the README file mentioned in [ykdojo's comment](https://github.com/propeldata/ui-kit/issues/119#issue-1899214079).
+- **Challenges faced**: I struggled with figuring out how this feature is used, so I analyzed the other columns in the README file and copied the writing style to ensure consistency.
+- **Resources used**: [This PR](https://github.com/propeldata/ui-kit/pull/110) gave me an idea on what to write in the README.
+- **OpenSauced Highlight**: I raised an issue for a beginner-friendly project called[BeforeIDieAchievements](https://github.com/BeforeIDieCode/BeforeIDieAchievements). Check out [my Highlight](https://insights.opensauced.pizza/feed/474) to learn more.
 
 ## Day 56
 
