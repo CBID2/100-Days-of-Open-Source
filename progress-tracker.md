@@ -585,12 +585,12 @@ and it worked! 😄
 
 ## Day 56
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [BeforeIDieAchievements](https://github.com/BeforeIDieCode/BeforeIDieAchievements)
+- **Description**: This is a beginner-friendly project that focuses on setting goals. Today, I worked on creating issue and PR templates for the main repository.
+- **Tasks completed**: So far, I created the PR and added files for the mutliple issue templates.
+- **Challenges faced**: I had trouble configuring these forms automatically. Then, I decided to look at the formatting of other projects and base my submission of theirs.
+- **Resources used**: [GitHub's documentation on configuring issue templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository) has been helpful. 
+- **OpenSauced Highlight**: I got another PR for the project merged! 😄 [Check out my highlight](https://insights.opensauced.pizza/feed/477) to learn more.
 
 ## Day 57
 
