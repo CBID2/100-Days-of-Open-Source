@@ -594,12 +594,12 @@ and it worked! 😄
 
 ## Day 57
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [BeforeIDieAchievements](https://github.com/BeforeIDieCode/BeforeIDieAchievements)
+- **Description**: This is a continuation of a PR I started yesterday. [Check out the description section in Day #56 for more context](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-56). Today, I wanted to work on the PR template. 
+- **Tasks completed**: I completed the pull request template
+- **Challenges faced**: I struggled with formatting this document, so like I did yesterday, I went to other projects, analyzed the components they used, and picked the ones that were most helpful. 
+- **Resources used**: [GitHub's documentation on configuring PR templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository) was helpful in showing me how to label the file.
+- **OpenSauced Highlight**: I got my pull request for LinksHub merged today! :) Check out [the highlight](https://insights.opensauced.pizza/feed/478) to learn more about the creation process.
   
 ## Day 58
 
