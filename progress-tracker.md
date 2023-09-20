@@ -603,12 +603,12 @@ and it worked! 😄
   
 ## Day 58
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [BeforeIDieAchievements](https://github.com/BeforeIDieCode/BeforeIDieAchievements)
+- **Description**: This is a continuation of the PR template I started yesterday. Check out[the description section of Day #57 to get more context](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-57). The maintainer pointed out that there were some YAML errors in the issue templates, so I decided to push my revision commits to my pull request template form PR.
+- **Tasks completed**: I managed to make the revisions for the YAML files.
+- **Challenges faced**: I struggled with fixing the errors. After reviewing the documentation and trying some YAML linters, I decided to do what I did before, look at some examples from other open source projects. By then, the errors were fixed.
+- **Resources used**: [The inspiration behind the formatting of my forms](https://github.com/EddieHubCommunity/BioDrop/blob/main/.github/ISSUE_TEMPLATE/bug.yml). I also used [ChatGPT](https://chat.openai.com/auth/login?iss=https%3A%2F%2Fauth0.openai.com%2F) to clean things up a bit, and my brain if errors still remained.
+- **OpenSauced Highlight**: The PR got merged! 😄 [Check it out as my highlight](https://insights.opensauced.pizza/feed/479)! I also shared my blog post about my PR to Freecodecamp's curriculum. [Check out the highlight for that as well!](https://insights.opensauced.pizza/feed/480)
 
 ## Day 59
 
