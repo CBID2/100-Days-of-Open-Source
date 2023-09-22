@@ -1,4 +1,4 @@
-# 100DaysOfOSS Progress Tracker
+﻿# 100DaysOfOSS Progress Tracker
 
 ## Day 1
 
@@ -626,7 +626,7 @@ and it worked! 😄
 - **Tasks completed**: I managed to add Portuguese to the translation sidebar.
 - **Challenges faced**: I tried pull the new updates to the Portuguese PR, but I had no choice but to do `gut force push`, so I ended up losing the commits. While cherry picking the commits was helpful, it didn't replicate the previous translation structure. So, I downloaded the translated files to my computer, uploaded them one by one, and the structure was back. Another struggle I endured was the tabs in the custom navbar would show the syntax. I tried following Docsify's documentation for this, but it still didn't work. Hopefully, this will be solved tomorrow or over the weekend. 
 - **Resources used**: [Docsify's documentation for custom navbars](https://docsify.js.org/#/custom-navbar?id=markdown)
-- **OpenSauced Highlight**: Not yet. 
+- **OpenSauced Highlight**: Not yet.
 
 ## Day 61
 
