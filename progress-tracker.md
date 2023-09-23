@@ -631,10 +631,10 @@ and it worked! 😄
 ## Day 61
 
 - **Project**: [opensauced/pizza-verse](https://github.com/open-sauced/pizza-verse)
-- **Description**: This is a project where people worldwide share information about pizza. It's intent is to help beginners become comfortable with contributing to open source projects. Today, I wanted to make edits [to this pull request](https://github.com/open-sauced/pizza-verse/pull/19)
+- **Description**: This is a project where people worldwide share information about pizza. It's intent is to help beginners become comfortable with contributing to open source projects. Today, I wanted to make edits [to this pull request](https://github.com/open-sauced/pizza-verse/pull/19).
 - **Tasks completed**: I managed to make some of the edits.
 - **Challenges faced**: I struggled with visualizing some of the maintainer's suggestions, so what I did was combined them with my ideas and wrote a comment about them.
-- **Resources used**: The comment section and my brain 😉
+- **Resources used**: The comment section and my brain! 😉
 - **OpenSauced Highlight**: None yet
 
 ## Day 62
