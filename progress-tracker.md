@@ -639,12 +639,12 @@ and it worked! 😄
 
 ## Day 62
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [The Good Docs Project](https://thegooddocsproject.dev/)
+- **Description**: This is a continuation of a task I started a while back. Check out the description section in [Day #3](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-3) and [Day #10](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-10) for more context. I received more feedback on my merge request, so I wanted to implement the maintainers' suggestions.
+- **Tasks completed**: I've managed to implement the feedback.
+- **Challenges faced**: None really. 
+- **Resources used**: The maintainer provided links to [Google's Documentation Style Guide](https://developers.google.com/style). It expanded my knowledge on how to write effective documentation 
+- **OpenSauced Highlight**: None yet
   
 ## Day 63
 
