@@ -648,12 +648,12 @@ and it worked! 😄
   
 ## Day 63
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [odinproject](https://github.com/TheOdinProject/theodinproject)
+- **Description**: This is the main site of The Odin Project's website. Today, I wanted to start adding the revised lesson to the main website, but first things first, I have to update the current version of Ruby.
+- **Tasks completed**: I managed to update my terminal to the latest version of Ruby.
+- **Challenges faced**: The major issue I faced was getting the new version of Ruby to follow the path on my terminal. After hours of finding solutions, a comrade from Virtual Coffee suggested I do this command: `echo 'eval "$(rbenv init - zsh)"' >> ~/.zshrc` and restart my terminal. 
+- **Resources used**: [This answer on Stack Overflow](https://stackoverflow.com/questions/36485180/how-to-update-ruby-with-homebrew/36485498#36485498) and [Vic Vijayakumar](https://vicvijayakumar.com/) from Virtual Coffee has been helpful.
+- **OpenSauced Highlight**: My template for The Goods Docs Project has finally been merged![Check it out here!](https://gitlab.com/tgdp/templates/-/merge_requests/299)
 
 ## Day 64
 
