@@ -653,7 +653,7 @@ and it worked! 😄
 - **Tasks completed**: I managed to update my terminal to the latest version of Ruby.
 - **Challenges faced**: The major issue I faced was getting the new version of Ruby to follow the path on my terminal. After hours of finding solutions, a comrade from Virtual Coffee suggested I do this command: `echo 'eval "$(rbenv init - zsh)"' >> ~/.zshrc` and restart my terminal. 
 - **Resources used**: [This answer on Stack Overflow](https://stackoverflow.com/questions/36485180/how-to-update-ruby-with-homebrew/36485498#36485498) and [Vic Vijayakumar](https://vicvijayakumar.com/) from Virtual Coffee has been helpful.
-- **OpenSauced Highlight**: My template for The Goods Docs Project has finally been merged![Check it out here!](https://gitlab.com/tgdp/templates/-/merge_requests/299)
+- **OpenSauced Highlight**: My template for The Goods Docs Project has finally been merged! 😄 [Check it out here!](https://gitlab.com/tgdp/templates/-/merge_requests/299)
 
 ## Day 64
 
