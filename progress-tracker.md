@@ -660,19 +660,19 @@ and it worked! 😄
 - **Project**: [odinproject](https://github.com/TheOdinProject/theodinproject)
 - **Description**: This is a continuation of a task that I started yesterday. Check out [the description section in Day 63](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-63) for more context. Today, I wanted to do the [Set Up DotEnv](https://github.com/TheOdinProject/theodinproject/wiki/Running-The-Odin-Project-Locally#set-up-dotenv) and the [Install Rails](https://github.com/TheOdinProject/theodinproject/wiki/Running-The-Odin-Project-Locally#initial-installations) steps.
 - **Tasks completed**: So far, I managed to install Rails.
-- **Challenges faced**:  When I got to the [Set Up DotEnv](https://github.com/TheOdinProject/theodinproject/wiki/Running-The-Odin-Project-Locally#set-up-dotenv) section, I tried to rename `$ cp env.sample .env` as `$ cp env.env .env`. Unfortunately, I'd get this response in my terminial: 
-`cp: env.env: No such file or directory`. I'll try again sometime this week. 
+- **Challenges faced**:  When I got to the [Set Up DotEnv](https://github.com/TheOdinProject/theodinproject/wiki/Running-The-Odin-Project-Locally#set-up-dotenv) section, I tried to rename `$ cp env.sample .env` as `$ cp env.env .env`. Unfortunately, I'd get this response in my terminial:
+`cp: env.env: No such file or directory`. I'll try again sometime this week.
 - **Resources used**: [The Odin Project's directions on installing Rails](https://www.theodinproject.com/lessons/ruby-on-rails-installing-rails#your-first-rails-app) was helpful in completing part of my task.
 - **OpenSauced Highlight**: My pull request for OpenSauced's Pizza Verse repository has just been merged! 😄 Check out [the Highlight section here to learn more](https://insights.opensauced.pizza/feed/498)
 
 ## Day 65
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [LinksHub](https://www.linkshub.dev/)
+- **Description**: [Check out the description of Day #2]() to learn more about this project. Today, I wanted to adding a Technical Writing category and a tool subcategory with a link to Docsify. I decided to add this section so that individuals who want to pursue a career in technical writing.  
+- **Tasks completed**: So far, I did a PR for this issue.
+- **Challenges faced**: Even though I followed the directions in the contributing guide, there seems to be a few errors with the JSON file. No worries, I will solve this issue.
+- **Resources used**: LinksHub's[Contributing Guide](https://github.com/rupali-codes/LinksHub/blob/main/CONTRIBUTING.md#appending-new-categories-)
+- **OpenSauced Highlight**: The pagination feature that I have been working on with @chris-nowicki has been merged! 😄 Check out the highlight [here](https://insights.opensauced.pizza/feed/507) I also raised an issue to OpenSauced's Docs repo. [Check out that highlight too](https://insights.opensauced.pizza/feed/506).
 
 ## Day 66
 
