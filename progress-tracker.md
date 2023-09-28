@@ -681,7 +681,7 @@ and it worked! 😄
 - **Tasks completed**: I managed to get the `pg_config` file and get TOP's website to run locally.
 - **Challenges faced**: Anytime I ran the `find /Applications -name pg_config` command in my terminal, I would not get a response. I then learned that I had to download Postgress before making this command. After doing this and redoing my username, I managed to run the website locally.
 - **Resources used**: The Odin Project's[OSX Installation Guide](https://github.com/TheOdinProject/theodinproject/wiki/OSX-Installation-Guide) and [Ryan Kahn](https://github.com/shiftyp) were helpful in my success. 
-- **OpenSauced Highlight**: My PR for Redhat's supplementary guide go merged! 😄 [Check out my highlight](https://insights.opensauced.pizza/feed/511)to learn more. Also, [check out my highlight](https://insights.opensauced.pizza/feed/514) about the explainer page I created for OpenSauced's Docs 
+- **OpenSauced Highlight**: My PR for Redhat's supplementary guide go merged! 😄 [Check out my highlight](https://insights.opensauced.pizza/feed/511) to learn more. Also, [check out my highlight](https://insights.opensauced.pizza/feed/514) about the explainer page I created for OpenSauced's Docs.  
 
 ## Day 67
 
