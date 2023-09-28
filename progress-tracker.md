@@ -690,7 +690,7 @@ and it worked! 😄
 - **Tasks completed**: [List the tasks you completed]
 - **Challenges faced**: [Mention any challenges you encountered]
 - **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **OpenSauced Highlight**: My pull request from MDN Web Docs has been merged! 😄 [Check out my highlight](https://insights.opensauced.pizza/feed/517) to learn more.
   
 ## Day 68
 
