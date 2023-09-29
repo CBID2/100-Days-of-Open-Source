@@ -680,16 +680,16 @@ and it worked! 😄
 - **Description**: This is a continuation of a task I started this week. Check [the description section of Day #64](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-64) to learn more.
 - **Tasks completed**: I managed to get the `pg_config` file and get TOP's website to run locally.
 - **Challenges faced**: Anytime I ran the `find /Applications -name pg_config` command in my terminal, I would not get a response. I then learned that I had to download Postgress before making this command. After doing this and redoing my username, I managed to run the website locally.
-- **Resources used**: The Odin Project's[OSX Installation Guide](https://github.com/TheOdinProject/theodinproject/wiki/OSX-Installation-Guide) and [Ryan Kahn](https://github.com/shiftyp) were helpful in my success. 
+- **Resources used**: The Odin Project's [OSX Installation Guide](https://github.com/TheOdinProject/theodinproject/wiki/OSX-Installation-Guide) and [Ryan Kahn](https://github.com/shiftyp) were helpful in my success. 
 - **OpenSauced Highlight**: My PR for Redhat's supplementary guide go merged! 😄 [Check out my highlight](https://insights.opensauced.pizza/feed/511) to learn more. Also, [check out my highlight](https://insights.opensauced.pizza/feed/514) about the explainer page I created for OpenSauced's Docs.  
 
 ## Day 67
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
+- **Project:** [odinproject](https://github.com/TheOdinProject/theodinproject)
+- **Description**: This is a continuation of a task I started this week. Check [the description section of Day #66](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-66) to learn more.
+- **Tasks completed**: After managing to setup the repository, I managed to create a pull request to add the new lesson to the project's website.
+- **Challenges faced**: I kept getting syntax errors whenever I run the `bin/rails seed:db` command. I'll work on it over the weekend.
+- **Resources used**: The Odin Project's [Adding a Lesson guide](https://github.com/TheOdinProject/theodinproject/wiki/Adding-a-Lesson) has been helpful.
 - **OpenSauced Highlight**: My pull request from MDN Web Docs has been merged! 😄 [Check out my highlight](https://insights.opensauced.pizza/feed/517) to learn more.
   
 ## Day 68
