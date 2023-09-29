@@ -690,7 +690,7 @@ and it worked! 😄
 - **Tasks completed**: After managing to setup the repository, I managed to create a pull request to add the new lesson to the project's website.
 - **Challenges faced**: I kept getting syntax errors whenever I run the `bin/rails seed:db` command. I'll work on it over the weekend.
 - **Resources used**: The Odin Project's [Adding a Lesson guide](https://github.com/TheOdinProject/theodinproject/wiki/Adding-a-Lesson) has been helpful.
-- **OpenSauced Highlight**: My pull request from MDN Web Docs has been merged! 😄 [Check out my highlight](https://insights.opensauced.pizza/feed/517) to learn more.
+- **OpenSauced Highlight**: My pull request for MDN Web Docs has been merged! 😄 [Check out my highlight](https://insights.opensauced.pizza/feed/517) to learn more. My PR for GitHub's open source guides has been merged too! 😄 Check out [this highlight](https://insights.opensauced.pizza/feed/519) while you're at it. 
   
 ## Day 68
 
