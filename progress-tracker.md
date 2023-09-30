@@ -694,12 +694,12 @@ and it worked! 😄
   
 ## Day 68
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [LinksHub](https://github.com/rupali-codes/LinksHub)
+- **Description**: Today,I wanted to do a fresh pull request for [this issue](https://github.com/rupali-codes/LinksHub/issues/1693) and [that issue](https://github.com/rupali-codes/LinksHub/issues/1692)
+- **Tasks completed**: I managed to make the pull request.
+- **Challenges faced**: Even though I followed the directions in the [Contributing Guide](https://github.com/rupali-codes/LinksHub/blob/main/CONTRIBUTING.md#appending-new-categories-), I kept getting syntax errors in my terminal. I plan on solving it during the weekend.
+- **Resources used**: [LinksHub's Contributing Guide](https://github.com/rupali-codes/LinksHub/blob/main/CONTRIBUTING.md#appending-new-categories-) was helpful in regards to how to formatting certain links.
+- **OpenSauced Highlight**: Nothing yet. 
   
 ## Day 69
 
