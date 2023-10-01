@@ -671,7 +671,7 @@ and it worked! 😄
 - **Description**: [Check out the description of Day #2](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-2) to learn more about this project. Today, I wanted to adding a Technical Writing category and a tool subcategory with a link to Docsify. I decided to add this section so that individuals who want to pursue a career in technical writing.  
 - **Tasks completed**: So far, I did a PR for this issue.
 - **Challenges faced**: Even though I followed the directions in the contributing guide, there seems to be a few errors with the JSON file. No worries, I will solve this issue.
-- **Resources used**: LinksHub's[Contributing Guide](https://github.com/rupali-codes/LinksHub/blob/main/CONTRIBUTING.md#appending-new-categories-)
+- **Resources used**: LinksHub's [Contributing Guide](https://github.com/rupali-codes/LinksHub/blob/main/CONTRIBUTING.md#appending-new-categories-)
 - **OpenSauced Highlight**: The pagination feature that I have been working on with @chris-nowicki has been merged! 😄 Check out the highlight [here](https://insights.opensauced.pizza/feed/507) I also raised an issue to OpenSauced's Docs repo. [Check out that highlight too](https://insights.opensauced.pizza/feed/506).
 
 ## Day 66
@@ -703,12 +703,12 @@ and it worked! 😄
   
 ## Day 69
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [LinksHub](https://github.com/rupali-codes/LinksHub)
+- **Description**: See the description in [Day #2](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-2) to learn more about it. LinksHub is participating in Hacktoberfest, an open source challenge that happens every October, so we received this spammy pull requests. To solve this problem, I suggested that we add a automated feature that labels spam pull requests.
+- **Tasks completed**: One of the maintainers managed to create a pull request for this issue. 
+- **Challenges faced**: So far, the pull request has received one approval and we need another one in order to get it approved. Hopefully, we'll get the pull request merged soon.
+- **Resources used**: [Spamtoberfest](https://github.com/marketplace/actions/spamtoberfest-pull-request-spam-checker) is the feature we are adding to the repository.
+- **OpenSauced Highlight**: Remember the task I spoke about on [Day #65](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-65)? Well, the PR I made for it got merged today! 😄 Check it out as a [highlight on OpenSauced](https://insights.opensauced.pizza/feed/522)! 😄
 
 ## Day 70
 
