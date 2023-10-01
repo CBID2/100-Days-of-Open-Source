@@ -704,7 +704,7 @@ and it worked! 😄
 ## Day 69
 
 - **Project**: [LinksHub](https://github.com/rupali-codes/LinksHub)
-- **Description**: See the description in [Day #2](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-2) to learn more about it. LinksHub is participating in Hacktoberfest, an open source challenge that happens every October, so we received this spammy pull requests. To solve this problem, I suggested that we add a automated feature that labels spam pull requests.
+- **Description**: See the description in [Day #2](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-2) to learn more about it. LinksHub is participating in [Hacktoberfest(https://hacktoberfest.com/), an open source challenge that happens every October, so we received a couple of spammy pull requests. To solve this problem, I suggested that we add a automated feature that labels spam pull requests.
 - **Tasks completed**: One of the maintainers managed to create a pull request for this issue. 
 - **Challenges faced**: So far, the pull request has received one approval and we need another one in order to get it approved. Hopefully, we'll get the pull request merged soon.
 - **Resources used**: [Spamtoberfest](https://github.com/marketplace/actions/spamtoberfest-pull-request-spam-checker) is the feature we are adding to the repository.
