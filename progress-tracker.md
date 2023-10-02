@@ -712,12 +712,12 @@ and it worked! 😄
 
 ## Day 70
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [TinDog](https://github.com/marshadkhn/TinDog)
+- **Description**: This is an app where pets find their soulmate. Today is the first day of Hacktoberfest, so I wanted to create a `greetings.yml file` as my first contribution.
+- **Tasks completed**: I made a pull request. 
+- **Challenges faced**: After it got merged, one of the maintainers pointed out that errors occur even though I followed the syntax. Hopefully, I'll solve by the end of this week.
+- **Resources used**: I used [this GitHub action](https://github.com/marketplace/actions/greet-contributors-action) and [this one](https://github.com/rupali-codes/LinksHub/blob/main/.github/workflows/greetings.yml).
+- **OpenSauced Highlight**: Remember the Odin Project lesson that I told you about? Both pull requests got merged! 😄 Check out [the highlight for the lesson](https://insights.opensauced.pizza/feed/527) and the [highligh about adding it to The Odin Project's website](https://insights.opensauced.pizza/feed/528)
 
 ## Day 71
 
