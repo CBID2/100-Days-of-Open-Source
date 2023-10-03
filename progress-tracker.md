@@ -559,13 +559,13 @@ headline analyzer tool](https://www.isitwp.com/headline-analyzer/)
 - **Tasks completed**: I managed to get to hyperlink the sidebar and the statements that directed each chapter.
 - **Challenges faced**: The major challenge I had was hyperlinking. I tried using the following syntax:
 
-```
+```md
 [Internal link to section](#name of section)
 ```
 
 But then, I realized that it did not work. So I decided to use this syntax:
 
-```
+```md
 [Internal Link to section](/guides/content/editing-an-existing-page#modifying-front-matter)
 ```
 
@@ -589,15 +589,15 @@ and it worked! 😄
 - **Description**: This is a beginner-friendly project that focuses on setting goals. Today, I worked on creating issue and PR templates for the main repository.
 - **Tasks completed**: So far, I created the PR and added files for the mutliple issue templates.
 - **Challenges faced**: I had trouble configuring these forms automatically. Then, I decided to look at the formatting of other projects and base my submission of theirs.
-- **Resources used**: [GitHub's documentation on configuring issue templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository) has been helpful. 
+- **Resources used**: [GitHub's documentation on configuring issue templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository) has been helpful.
 - **OpenSauced Highlight**: I got another PR for the project merged! 😄 [Check out my highlight](https://insights.opensauced.pizza/feed/477) to learn more.
 
 ## Day 57
 
 - **Project**: [BeforeIDieAchievements](https://github.com/BeforeIDieCode/BeforeIDieAchievements)
-- **Description**: This is a continuation of a PR I started yesterday. [Check out the description section in Day #56 for more context](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-56). Today, I wanted to work on the PR template. 
+- **Description**: This is a continuation of a PR I started yesterday. [Check out the description section in Day #56 for more context](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-56). Today, I wanted to work on the PR template.
 - **Tasks completed**: I completed the pull request template
-- **Challenges faced**: I struggled with formatting this document, so like I did yesterday, I went to other projects, analyzed the components they used, and picked the ones that were most helpful. 
+- **Challenges faced**: I struggled with formatting this document, so like I did yesterday, I went to other projects, analyzed the components they used, and picked the ones that were most helpful.
 - **Resources used**: [GitHub's documentation on configuring PR templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository) was helpful in showing me how to label the file.
 - **OpenSauced Highlight**: I got my pull request for LinksHub merged today! :) Check out [the highlight](https://insights.opensauced.pizza/feed/478) to learn more about the creation process.
   
@@ -624,7 +624,7 @@ and it worked! 😄
 - **Project**:  [opensauced/intro](https://github.com/open-sauced/intro)
 - **Description**: The French translation of the course got merged, so today, I decided to continue with the Portuguese one.
 - **Tasks completed**: I managed to add Portuguese to the translation sidebar.
-- **Challenges faced**: I tried pull the new updates to the Portuguese PR, but I had no choice but to do `gut force push`, so I ended up losing the commits. While cherry picking the commits was helpful, it didn't replicate the previous translation structure. So, I downloaded the translated files to my computer, uploaded them one by one, and the structure was back. Another struggle I endured was the tabs in the custom navbar would show the syntax. I tried following Docsify's documentation for this, but it still didn't work. Hopefully, this will be solved tomorrow or over the weekend. 
+- **Challenges faced**: I tried pull the new updates to the Portuguese PR, but I had no choice but to do `gut force push`, so I ended up losing the commits. While cherry picking the commits was helpful, it didn't replicate the previous translation structure. So, I downloaded the translated files to my computer, uploaded them one by one, and the structure was back. Another struggle I endured was the tabs in the custom navbar would show the syntax. I tried following Docsify's documentation for this, but it still didn't work. Hopefully, this will be solved tomorrow or over the weekend.
 - **Resources used**: [Docsify's documentation for custom navbars](https://docsify.js.org/#/custom-navbar?id=markdown)
 - **OpenSauced Highlight**: Not yet.
 
@@ -642,8 +642,8 @@ and it worked! 😄
 - **Project**: [The Good Docs Project](https://thegooddocsproject.dev/)
 - **Description**: This is a continuation of a task I started a while back. Check out the description section in [Day #3](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-3) and [Day #10](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-10) for more context. I received more feedback on my merge request, so I wanted to implement the maintainers' suggestions.
 - **Tasks completed**: I've managed to implement the feedback.
-- **Challenges faced**: None really. 
-- **Resources used**: The maintainer provided links to [Google's Documentation Style Guide](https://developers.google.com/style). It expanded my knowledge on how to write effective documentation 
+- **Challenges faced**: None really.
+- **Resources used**: The maintainer provided links to [Google's Documentation Style Guide](https://developers.google.com/style). It expanded my knowledge on how to write effective documentation
 - **OpenSauced Highlight**: None yet
   
 ## Day 63
@@ -651,7 +651,7 @@ and it worked! 😄
 - **Project**: [odinproject](https://github.com/TheOdinProject/theodinproject)
 - **Description**: This is the main site of The Odin Project's website. Today, I wanted to start adding the revised lesson to the main website, but first things first, I have to update the current version of Ruby.
 - **Tasks completed**: I managed to update my terminal to the latest version of Ruby.
-- **Challenges faced**: The major issue I faced was getting the new version of Ruby to follow the path on my terminal. After hours of finding solutions, a comrade from Virtual Coffee suggested I do this command: `echo 'eval "$(rbenv init - zsh)"' >> ~/.zshrc` and restart my terminal. 
+- **Challenges faced**: The major issue I faced was getting the new version of Ruby to follow the path on my terminal. After hours of finding solutions, a comrade from Virtual Coffee suggested I do this command: `echo 'eval "$(rbenv init - zsh)"' >> ~/.zshrc` and restart my terminal.
 - **Resources used**: [This answer on Stack Overflow](https://stackoverflow.com/questions/36485180/how-to-update-ruby-with-homebrew/36485498#36485498) and [Vic Vijayakumar](https://vicvijayakumar.com/) from Virtual Coffee has been helpful.
 - **OpenSauced Highlight**: My template for The Goods Docs Project has finally been merged! 😄 [Check it out here!](https://gitlab.com/tgdp/templates/-/merge_requests/299)
 
@@ -680,7 +680,7 @@ and it worked! 😄
 - **Description**: This is a continuation of a task I started this week. Check [the description section of Day #64](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-64) to learn more.
 - **Tasks completed**: I managed to get the `pg_config` file and get TOP's website to run locally.
 - **Challenges faced**: Anytime I ran the `find /Applications -name pg_config` command in my terminal, I would not get a response. I then learned that I had to download Postgress before making this command. After doing this and redoing my username, I managed to run the website locally.
-- **Resources used**: The Odin Project's [OSX Installation Guide](https://github.com/TheOdinProject/theodinproject/wiki/OSX-Installation-Guide) and [Ryan Kahn](https://github.com/shiftyp) were helpful in my success. 
+- **Resources used**: The Odin Project's [OSX Installation Guide](https://github.com/TheOdinProject/theodinproject/wiki/OSX-Installation-Guide) and [Ryan Kahn](https://github.com/shiftyp) were helpful in my success.
 - **OpenSauced Highlight**: My PR for Redhat's supplementary guide go merged! 😄 [Check out my highlight](https://insights.opensauced.pizza/feed/511) to learn more. Also, [check out my highlight](https://insights.opensauced.pizza/feed/514) about the explainer page I created for OpenSauced's Docs.  
 
 ## Day 67
@@ -690,22 +690,22 @@ and it worked! 😄
 - **Tasks completed**: After managing to setup the repository, I managed to create a pull request to add the new lesson to the project's website.
 - **Challenges faced**: I kept getting syntax errors whenever I run the `bin/rails seed:db` command. I'll work on it over the weekend.
 - **Resources used**: The Odin Project's [Adding a Lesson guide](https://github.com/TheOdinProject/theodinproject/wiki/Adding-a-Lesson) has been helpful.
-- **OpenSauced Highlight**: My pull request for MDN Web Docs has been merged! 😄 [Check out my highlight](https://insights.opensauced.pizza/feed/517) to learn more. My PR for GitHub's open source guides has been merged too! 😄 Check out [this highlight](https://insights.opensauced.pizza/feed/519) while you're at it. 
+- **OpenSauced Highlight**: My pull request for MDN Web Docs has been merged! 😄 [Check out my highlight](https://insights.opensauced.pizza/feed/517) to learn more. My PR for GitHub's open source guides has been merged too! 😄 Check out [this highlight](https://insights.opensauced.pizza/feed/519) while you're at it.
   
 ## Day 68
 
 - **Project**: [LinksHub](https://github.com/rupali-codes/LinksHub)
-- **Description**: Today, I wanted to do a fresh pull request for [this issue](https://github.com/rupali-codes/LinksHub/issues/1693) and [that issue](https://github.com/rupali-codes/LinksHub/issues/1692). 
+- **Description**: Today, I wanted to do a fresh pull request for [this issue](https://github.com/rupali-codes/LinksHub/issues/1693) and [that issue](https://github.com/rupali-codes/LinksHub/issues/1692).
 - **Tasks completed**: I managed to make the pull request.
 - **Challenges faced**: Even though I followed the directions in the [Contributing Guide](https://github.com/rupali-codes/LinksHub/blob/main/CONTRIBUTING.md#appending-new-categories-), I kept getting syntax errors in my terminal. I plan on solving it during the weekend.
 - **Resources used**: [LinksHub's Contributing Guide](https://github.com/rupali-codes/LinksHub/blob/main/CONTRIBUTING.md#appending-new-categories-) was helpful in regards to how to formatting certain links.
-- **OpenSauced Highlight**: Nothing yet. 
+- **OpenSauced Highlight**: Nothing yet.
   
 ## Day 69
 
 - **Project**: [LinksHub](https://github.com/rupali-codes/LinksHub)
 - **Description**: See the description in [Day #2](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-2) to learn more about it. LinksHub is participating in [Hacktoberfest](https://hacktoberfest.com/), an open source challenge that happens every October, so we received a couple of spammy pull requests. To solve this problem, I suggested that we add a automated feature that labels spam pull requests.
-- **Tasks completed**: One of the maintainers managed to create a pull request for this issue. 
+- **Tasks completed**: One of the maintainers managed to create a pull request for this issue.
 - **Challenges faced**: So far, the pull request has received one approval and we need another one in order to get it approved. Hopefully, we'll get the pull request merged soon.
 - **Resources used**: [Spamtoberfest](https://github.com/marketplace/actions/spamtoberfest-pull-request-spam-checker) is the feature we are adding to the repository.
 - **OpenSauced Highlight**: Remember the task I spoke about on [Day #65](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-65)? Well, the PR I made for it got merged today! 😄 Check it out as a [highlight on OpenSauced](https://insights.opensauced.pizza/feed/522)! 😄
@@ -714,19 +714,19 @@ and it worked! 😄
 
 - **Project**: [TinDog](https://github.com/marshadkhn/TinDog)
 - **Description**: This is an app where pets find their soulmate. Today is the first day of Hacktoberfest, so I wanted to create a `greetings.yml file` as my first contribution.
-- **Tasks completed**: I made a pull request. 
+- **Tasks completed**: I made a pull request.
 - **Challenges faced**: After it got merged, one of the maintainers pointed out that errors occur even though I followed the syntax. Hopefully, I'll solve by the end of this week.
 - **Resources used**: I used [this GitHub action](https://github.com/marketplace/actions/greet-contributors-action) and [this one](https://github.com/rupali-codes/LinksHub/blob/main/.github/workflows/greetings.yml).
-- **OpenSauced Highlight**: Remember the Odin Project lesson that I told you about? Both pull requests got merged! 😄 Check out [the highlight for the lesson](https://insights.opensauced.pizza/feed/527) and the [highligh about adding it to The Odin Project's website](https://insights.opensauced.pizza/feed/528)
+- **OpenSauced Highlight**: Remember the Odin Project lesson that I told you about? Both pull requests got merged! 😄 Check out [the highlight for the lesson](https://insights.opensauced.pizza/feed/527) and the [highlight about adding it to The Odin Project's website](https://insights.opensauced.pizza/feed/528)
 
 ## Day 71
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [SheSharp/knowledgehub](https://github.com/shesharpnl/knowledge-hub)
+- **Description**: This project hosts resources submitted by members of SheSharp, an organization that is dedicated to helping women and non-binary people to start their careers in tech. As a second contribution for Hacktoberfest, I wanted to work on the [issue](https://github.com/shesharpnl/knowledge-hub/issues/15).
+- **Tasks completed**: Following the maintainers advice, I created one small pull request that sets up the page.
+- **Challenges faced**: At first, I struggled with visualizing the structure of my entry and the kind of file it should be hosted in. So, I asked the maintainer for clarification, resulting in my decision to create small PRs for this page.
+- **Resources used**: [The maintainer's comment on structure](https://github.com/shesharpnl/knowledge-hub/issues/15#issuecomment-1743748856) has been helpful in my creation process.
+- **OpenSauced Highlight**: My PR for OpenSauced's Docs got merged! 😄 Check out [my highlight](https://insights.opensauced.pizza/feed/534) to learn about its creation process.
 
 ## Day 72
 
