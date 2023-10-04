@@ -730,12 +730,12 @@ and it worked! 😄
 
 ## Day 72
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [opensauced/guestbook](https://github.com/open-sauced/guestbook)
+- **Description**: This the repository where people who have taken OpenSauced's course about open source make their first contribution. I just joined their community team as a maintainer(woohoo! 😄), so I wanted to focus on reviewing and merging pull requests.
+- **Tasks completed**: I've managed to merged 2 pull requests and review 6 of them. Not bad for a first day! 👍
+- **Challenges faced**: I noticed that one of the contributor of this pull request did `git force push` after my suggestion to resolve merge conflicts on their branch, so I decided to suggest using the `git cherry-pick` command to get their previous commit on their branch. At first, I did not know how to start, but then I asked myself "How would you describe to a 5-year old?". From there, I managed to describe my method.
+- **Resources used**: My memory 😉
+- **OpenSauced Highlight**: None yet. 
   
 ## Day 73
 
