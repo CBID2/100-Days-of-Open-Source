@@ -739,12 +739,12 @@ and it worked! 😄
   
 ## Day 73
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [BioDrop](https://www.biodrop.io/)
+- **Description**: Today, I wanted to work on adding information to their eighth step of their [Open Source RoadMap](https://www.biodrop.io/docs/open-source-roadmap)
+- **Tasks completed**: I managed to create a pull request.
+- **Challenges faced**: It was a bit challenging to give tips in a concise way, So I asked myself, "What are key tips that beginners in open source would want to know when it comes to maintaining?". Eventually, my ideas came and I wrote strong quickly.
+- **Resources used**: My brain :wink:
+- **OpenSauced Highlight**: My pull request for GitHub's Docs has been merged! 😄 Check out the [highligtght here](https://insights.opensauced.pizza/feed/540). 
 
 ## Day 74
 
