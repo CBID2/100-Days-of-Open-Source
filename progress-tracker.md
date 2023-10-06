@@ -744,16 +744,16 @@ and it worked! 😄
 - **Tasks completed**: I managed to create a pull request.
 - **Challenges faced**: It was a bit challenging to give tips in a concise way, So I asked myself, "What are key tips that beginners in open source would want to know when it comes to maintaining?". Eventually, my ideas came and I wrote strong quickly.
 - **Resources used**: My brain :wink:
-- **OpenSauced Highlight**: My pull request for GitHub's Docs has been merged! 😄 Check out the [highligtght here](https://insights.opensauced.pizza/feed/540). 
+- **OpenSauced Highlight**: My pull request for GitHub's Docs has been merged! 😄 Check out the [highlight here](https://insights.opensauced.pizza/feed/540).
 
 ## Day 74
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [shesharpnl/knowledge-hub](https://github.com/shesharpnl/knowledge-hub)
+- **Description**: See [the description in Day #71](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-71) to learn about the project. Today, I wanted to work on another small PR for their Open Source page. This time, I focused on writing the intro and second section.
+- **Tasks completed**: I managed to create that second PR.
+- **Challenges faced**: I struggled a little bit with making the introduction engaging, but then I decided to think back how I felt when I first learned that open source can help me get out of tutorial hell.
+- **Resources used**: [The maintainer's comment](https://github.com/shesharpnl/knowledge-hub/issues/15) was very helpful with this pull request.
+- **OpenSauced Highlight**: Not yet
 
 ## Day 75
 
