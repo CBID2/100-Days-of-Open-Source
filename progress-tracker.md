@@ -757,12 +757,12 @@ and it worked! 😄
 
 ## Day 75
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [shesharpnl/knowledge-hub](https://github.com/shesharpnl/knowledge-hub)
+- **Description**: This is a continuation of the contribution that I mentioned in Day #74. Check it out [here](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-74) to get more context. Today, I wanted to finish the final sections of the page on Open Source.
+- **Tasks completed**: So far, I managed to do the section on documentation and completed half of the section about design contributions.
+- **Challenges faced**: Since SheSharp is a womxn-centric I wanted to showcase open source contributions made by members in this demographic. It was quite difficult to find these examples, especially the design ones, because. they mostly done by men. So I went with projects that I've contributed to and found examples from there.
+- **Resources used**: [The Open Source Design Society](https://opensourcedesign.net/) helped me immensely in finding design-centric open source projects.
+- **OpenSauced Highlight**: I got another PR for Github's docs site merged! Check out [the highlight](https://insights.opensauced.pizza/feed/547) to learn more about my creation process.
 
 ## Day 76
 
