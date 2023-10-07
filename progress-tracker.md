@@ -735,7 +735,7 @@ and it worked! 😄
 - **Tasks completed**: I've managed to merged 2 pull requests and review 6 of them. Not bad for a first day! 👍
 - **Challenges faced**: I noticed that one of the contributor of this pull request did `git force push` after my suggestion to resolve merge conflicts on their branch, so I decided to suggest using the `git cherry-pick` command to get their previous commit on their branch. At first, I did not know how to start, but then I asked myself "How would you describe to a 5-year old?". From there, I managed to describe my method.
 - **Resources used**: My memory 😉
-- **OpenSauced Highlight**: None yet. 
+- **OpenSauced Highlight**: None yet.
   
 ## Day 73
 
