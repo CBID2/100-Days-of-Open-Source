@@ -766,12 +766,12 @@ and it worked! 😄
 
 ## Day 76
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [shesharpnl/knowledge-hub](https://github.com/shesharpnl/knowledge-hub)
+- **Description**: This is a continuation of the contribution that I mentioned yesterday (Day #75). Check it out [here](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-75) to get more context.
+- **Tasks completed**: I managed to fill out the rest of the Open Source page.
+- **Challenges faced**: I wanted to highlight marketing open source contributions from women from diverse backgrounds. Similarly to yesterday,  I could not find them as most of the ones I found interesting were done by men. To solve this issue, I found individuals I've encountered.
+- **Resources used**: [GitHub](https://github.com/) and my brain.😉
+- **OpenSauced Highlight**: My pull request for Codecademy Docs finally got merged! Check out[my highlight](https://insights.opensauced.pizza/feed/550) to learn more.
 
 ## Day 77
 
