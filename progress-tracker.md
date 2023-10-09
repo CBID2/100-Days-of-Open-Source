@@ -775,12 +775,12 @@ and it worked! 😄
 
 ## Day 77
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [Accessibleforall](https://accessiblewebdev.netlify.app/)
+- **Description**: Check out the description section of [Day #12](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-12) to learn more about the project. Today, I wanted to work on creating content for [the chart section on their website](https://accessiblewebdev.netlify.app/charts) for Hacktoberfest.
+- **Tasks completed**: So far, I managed to create the structure for the introduction.
+- **Challenges faced**: I had trouble pushing my commits via my computer and Visual Studio Code. So, I decided to create a new branch and PR via GitHub's website. Things worked.
+- **Resources used**: My brain 😉
+- **OpenSauced Highlight**: Not yet
 
 ## Day 78
 
