@@ -787,8 +787,8 @@ and it worked! 😄
 - **Project**: [Accessibleforall](https://accessiblewebdev.netlify.app/)
 - **Description**: This is a continuation of the contribution that I mentioned yesterday (Day #77). Check it out [here](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-77) to get more context. Today, I wanted to work on the introduction of my entry.
 - **Tasks completed**: I managed to fill out the introduction and create the structure for the other projects.
-- **Challenges faced**: Despite me knowing what a chart is, I struggled with describing it in the context of coding. So, I tried finding information on this but found that they did not meet my expectations, so I decided to use the common definition. 
-- **Resources used**: My brain
+- **Challenges faced**: Despite me knowing what a chart is, I struggled with describing it in the context of coding. So, I tried finding information on this but found that they did not meet my expectations, so I decided to use the common definition.
+- **Resources used**: My brain 😄
 - **OpenSauced Highlight**: None yet 
 ## Day 79
 
