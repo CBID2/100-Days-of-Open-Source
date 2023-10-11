@@ -789,15 +789,16 @@ and it worked! 😄
 - **Tasks completed**: I managed to fill out the introduction and create the structure for the other projects.
 - **Challenges faced**: Despite me knowing what a chart is, I struggled with describing it in the context of coding. So, I tried finding information on this but found that they did not meet my expectations, so I decided to use the common definition.
 - **Resources used**: My brain 😄
-- **OpenSauced Highlight**: None yet 
+- **OpenSauced Highlight**: None yet
+
 ## Day 79
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [OpenSauced/intro](https://intro.opensauced.pizza/#/)
+- **Description**: Go to [the description of Day 3](thttps://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-3) to learn more about this project. Today, I wanted to update [Bekah](https://github.com/BekahHW) on the translation guide I've been creating.
+- **Tasks completed**: We've managed to formulate an issue. Check it out [here](https://github.com/open-sauced/intro/issues/71?notification_referrer_id=NT_kwDOBkyZ8LQ4MDA4MjI2MzU5OjEwNTY4MzQ0MA#issuecomment-1756533448).
+- **Challenges faced**: I was not sure whether to to keep the discussion board suggestion or not, but then Bekah pointed out doing this and a community fork can make this appealing.
+- **Resources used**: The GitHub issues feature and teamwork. 😄
+- **OpenSauced Highlight**: My explainer page for OpenSauced's connection feature got merged! Check it out in my [Highlight on OpenSauced](https://app.opensauced.pizza/feed/558) to learn more about the creation process.
 
 ## Day 80
 
