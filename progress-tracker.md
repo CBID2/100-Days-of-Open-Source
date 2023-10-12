@@ -802,12 +802,12 @@ and it worked! 😄
 
 ## Day 80
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [OpenSauced/intro](https://intro.opensauced.pizza/#/)
+- **Description**: This is a continuation of the contribution that I mentioned yesterday (Day #79). Check it out [here](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-79) to get more context. Today, I wanted to get feedback on my translation guide ideas.
+- **Tasks completed**: The maintainers and I have managed to come with an idea to combine the discussion board idea and the community fork suggestion.
+- **Challenges faced**: None really.
+- **Resources used**: Teamwork! 😄
+- **OpenSauced Highlight**: Check out [my highlight](https://app.opensauced.pizza/feed/571) of a PR I made for freeCodeCamp.
 
 ## Day 81
 
