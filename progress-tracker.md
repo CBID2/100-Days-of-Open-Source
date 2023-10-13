@@ -811,12 +811,12 @@ and it worked! 😄
 
 ## Day 81
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [Accessibleforall](https://accessiblewebdev.netlify.app/)
+- **Description**: This is a continuation of the contribution that I mentioned on Day #78. Check it out [here](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-78) to get more context. Today, I wanted to work on the other sections of my entry.
+- **Tasks completed**: I managed to   create and fill out the "Types of Charts" section.
+- **Challenges faced**: I wasn't sure whether to mention types of charts or go right in and describe how to implement one on a website. But then, I thought "What if beginners are not sure which chart to use?". From there, I decided to put both sections.
+- **Resources used**: My brain 😄
+- **OpenSauced Highlight**: None yet
 
 ## Day 82
 
