@@ -820,12 +820,12 @@ and it worked! 😄
 
 ## Day 82
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [opensauced/Pizza-verse]()
+- **Description**: This is a repository were all contributors are encouraged to post information about pizza. Today, I want to review and merge some PRs.
+- **Tasks completed**: I managed to review only one PR.
+- **Challenges faced**: I struggled a bit on whether [this PR](https://github.com/open-sauced/pizza-verse/pull/38#event-10649857708) belonged to the `recipe.md` file or the `pizza-facts.md` file. After doing some thinking, I suggested to the contributor to place it in the recipe file.
+- **Resources used**: My brain. 😉
+- **OpenSauced Highlight**: Today, I posted an article about how I managed to get four approved pull requests within the first week of Hacktoberfest. Check it out as an [highlight here](https://app.opensauced.pizza/feed/590)! 😄
 
 ## Day 83
 
