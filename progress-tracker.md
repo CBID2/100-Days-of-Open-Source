@@ -813,14 +813,14 @@ and it worked! 😄
 
 - **Project**: [Accessibleforall](https://accessiblewebdev.netlify.app/)
 - **Description**: This is a continuation of the contribution that I mentioned on Day #78. Check it out [here](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-78) to get more context. Today, I wanted to work on the other sections of my entry.
-- **Tasks completed**: I managed to   create and fill out the "Types of Charts" section.
+- **Tasks completed**: I managed to create and fill out the "Types of Charts" section.
 - **Challenges faced**: I wasn't sure whether to mention types of charts or go right in and describe how to implement one on a website. But then, I thought "What if beginners are not sure which chart to use?". From there, I decided to put both sections.
 - **Resources used**: My brain 😄
 - **OpenSauced Highlight**: None yet
 
 ## Day 82
 
-- **Project**: [opensauced/Pizza-verse]()
+- **Project**: [opensauced/Pizza-verse](https://github.com/open-sauced/pizza-verse)
 - **Description**: This is a repository were all contributors are encouraged to post information about pizza. Today, I want to review and merge some PRs.
 - **Tasks completed**: I managed to review only one PR.
 - **Challenges faced**: I struggled a bit on whether [this PR](https://github.com/open-sauced/pizza-verse/pull/38#event-10649857708) belonged to the `recipe.md` file or the `pizza-facts.md` file. After doing some thinking, I suggested to the contributor to place it in the recipe file.
@@ -829,13 +829,12 @@ and it worked! 😄
 
 ## Day 83
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
-
+- **Project**: [Accessibleforall](https://accessiblewebdev.netlify.app/)
+This is a continuation of the contribution that I mentioned on Day #78. Check it out [here](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-78) to get more context. Today, I wanted to work on the other sections of my entry.
+- **Tasks completed**: I managed to create and fill out the "How to create a chart" and "How to Make Charts Accessible" sections.
+- **Challenges faced**: I struggled to commit my changes locally, so I did them via GitHub's GUI.
+- **Resources used**: My brain. 😄
+- **OpenSauced Highlight**: None at the moment. 
 ## Day 84
 
 - **Project**: [Project Name]
