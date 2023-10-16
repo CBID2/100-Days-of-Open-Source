@@ -834,15 +834,16 @@ This is a continuation of the contribution that I mentioned on Day #78. Check it
 - **Tasks completed**: I managed to create and fill out the "How to create a chart" and "How to Make Charts Accessible" sections.
 - **Challenges faced**: I struggled to commit my changes locally, so I did them via GitHub's GUI.
 - **Resources used**: My brain. 😄
-- **OpenSauced Highlight**: None at the moment. 
+- **OpenSauced Highlight**: None at the moment.
+
 ## Day 84
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: **Project**: [Accessibleforall](https://accessiblewebdev.netlify.app/)
+This is a continuation of the contribution that I mentioned yesterday (Day #83). Check it out [here](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-83) to get more context. Today, I received feedback on my PR, so I wanted to work on implementing some of it.
+- **Tasks completed**: I implemented the maintainer's suggestion to update the navigation page.
+- **Challenges faced**: I struggled with on whether to remove the tutorial I created and replace it with a section on how to make the images of charts more accessible. I'll try again tomorrow or later this week.  
+- **Resources used**: the [maintainer's feedback](https://github.com/AccessibleForAll/AccessibleWebDev/pull/377#pullrequestreview-1678824630) has been helpful.
+- **OpenSauced Highlight**: None yet
 
 ## Day 85
 
