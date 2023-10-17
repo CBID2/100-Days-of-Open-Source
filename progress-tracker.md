@@ -847,12 +847,12 @@ This is a continuation of the contribution that I mentioned yesterday (Day #83).
 
 ## Day 85
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [Accessibleforall](https://accessiblewebdev.netlify.app/)
+- **Description**: This is a continuation of the contribution that I mentioned yesterday (Day #84). Check it out [here](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-84) to get more context. This time, I wanted to make more revisions based on the maintainer's feedback.
+- **Tasks completed**: So far, I added information on the common accessibility issues that charts have.
+- **Challenges faced**: I wanted to cite some sources to support these points, but the information I found did not show statistics.
+- **Resources used**: [This source](https://www.wypartnership.co.uk/application/files/3716/4735/6437/making-information-accessible-for-neurodivergent-people-final-v2-20.04.21.pdf) gave me some things to think about.
+- **OpenSauced Highlight**: Check out [my highlight](https://app.opensauced.pizza/feed/601) from OpenSauced's guestbook repository.
 
 ## Day 86
 
