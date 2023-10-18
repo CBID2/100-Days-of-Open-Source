@@ -856,12 +856,13 @@ This is a continuation of the contribution that I mentioned yesterday (Day #83).
 
 ## Day 86
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [YurisCodingClub/accessibility-mentor](https://github.com/YurisCodingClub/accessibility-mentor)
+- **Description**: This is a project that provides coders at all levels to get better at accessibility. Right now, the website is in the building stage, so I decided to create the footer. Check out [the issue](https://github.com/YurisCodingClub/accessibility-mentor/issues/16) here to learn more. I was unsatisfied with what I created, so I decided to started with Step one again.
+- **Tasks completed**: I managed to step up the `footer.js` file by doing the `git-revert` command.
+- **Challenges faced**: I've never worked with React.js before, so I was not sure how to add the CSS to it. I'll figure it out later in the week.
+- **Resources used**: [React's documentation on adding height and width](https://reactnative.dev/docs/height-and-width) and [
+Saleh Mubashar's article on the many ways to write CSS in React](https://css-tricks.com/different-ways-to-write-css-in-react/) gave a me few ideas to think about.
+- **OpenSauced Highlight**: I finally got a pull request at BioDrop merged! 😄 Check out the [highlight](https://app.opensauced.pizza/feed/604) to learn more.
 
 ## Day 87
 
