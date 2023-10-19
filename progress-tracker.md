@@ -866,12 +866,12 @@ Saleh Mubashar's article on the many ways to write CSS in React](https://css-tri
 
 ## Day 87
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [YurisCodingClub/accessibility-mentor](https://github.com/YurisCodingClub/accessibility-mentor)
+- **Description**: This is the continuation of the contribution I started on Day 86. Check out its description [here](). Today, I wanted to fulfill [the second task of the footer issue](). 
+- **Tasks completed**: I managed to add the width and set the footer at the bottom. 
+- **Challenges faced**: At first, I was not sure how to add the footer at the bottom, so I did some research, found a tutorial on creating a footer in React.js, and added the code to my contribution
+- **Resources used**: [OhSnap! This How To Pin Footers in React](https://dev.to/gedalyakrycer/ohsnap-this-how-to-pin-footers-in-react-3k1k)has helped me solve my bottom footer problem.
+- **OpenSauced Highlight**: My PR for GitHub's documentation got merged! 😄 Check out [my highlight](https://app.opensauced.pizza/feed/641) to learn more about this contribution.
 
 ## Day 88
 
