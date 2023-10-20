@@ -884,12 +884,13 @@ Saleh Mubashar's article on the many ways to write CSS in React](https://css-tri
 
 ## Day 89
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [YurisCodingClub/accessibility-mentor](https://github.com/YurisCodingClub/accessibility-mentor)
+
+- **Description**: This is the continuation of the contribution I started on Day 88. Check out its description [here](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-88). Today, I wanted to revise my PR based on the maintainer's comments.[Here's an example](https://github.com/YurisCodingClub/accessibility-mentor/pull/42#discussion_r1366497270).
+- **Tasks completed**: I managed to make some of the updates.
+- **Challenges faced**: I struggled with improving the file path of the logo(it would not automatically appear). Eventually, I decided to manually insert it.
+- **Resources used**: [Nick Taylor](https://github.com/nickytonline) and [Mark Noonan's](https://github.com/marktnoonan) advice has been helpful.
+- **OpenSauced Highlight**: My entry on the `cherry pick` command has finally been merged to Codecademy's Docs repository. Check out [my highlight here](https://app.opensauced.pizza/feed/650) to learn more about the creation process.
 
 ## Day 90
 
