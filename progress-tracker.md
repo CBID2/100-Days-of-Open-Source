@@ -894,12 +894,13 @@ Saleh Mubashar's article on the many ways to write CSS in React](https://css-tri
 
 ## Day 90
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [Accessibleforall](https://accessiblewebdev.netlify.app/)
+- **Description**: This is a continuation of the contribution that I mentioned Day #78. Check it out [here](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-78) to get more context. Today, I wanted to work on the accessibility section of my entry on Charts.
+- **Tasks completed**: I managed to add some information in that section.
+- **Challenges faced**: I had trouble pushing my commits via and Visual Studio Code. So, I decided to do it via GitHub. Things worked.
+- **Resources used**: My brain and [WC3's standard for using alt text for complex images](https://www.w3.org/WAI/tutorials/images/complex/#long-descriptions) 😄
+- **OpenSauced Highlight**: None yet
+
 
 ## Day 91
 
