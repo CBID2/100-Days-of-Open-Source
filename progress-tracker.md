@@ -901,15 +901,14 @@ Saleh Mubashar's article on the many ways to write CSS in React](https://css-tri
 - **Resources used**: My brain and [WC3's standard for using alt text for complex images](https://www.w3.org/WAI/tutorials/images/complex/#long-descriptions) 😄
 - **OpenSauced Highlight**: None yet
 
-
 ## Day 91
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [YurisCodingClub/accessibility-mentor](https://github.com/YurisCodingClub/accessibility-mentor)
+
+- **Description**: This is the continuation of the contribution I started on Day 88. Check out its description [here](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-88). Today, I wanted to make more revisions based on the maintainer's comments. [Here's an example](https://github.com/YurisCodingClub/accessibility-mentor/pull/42#issuecomment-1773992223).
+- **Challenges Faced:** I was not sure how to get the footer to appear in the preview, then I took a peek at [the maintainer's first comment](https://github.com/YurisCodingClub/accessibility-mentor/pull/42#issuecomment-1772116283), added the missing footer component import, and threw in a `<footer>` tag in the `index.js` file. Things worked! :)
+- **Resources used**: [The maintainer's first comment](https://github.com/YurisCodingClub/accessibility-mentor/pull/42#issuecomment-1772116283) aided me in this process.
+- **OpenSauced Highlight**: None yet
 
 ## Day 92
 
