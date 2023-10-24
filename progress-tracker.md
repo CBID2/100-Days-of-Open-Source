@@ -912,12 +912,12 @@ Saleh Mubashar's article on the many ways to write CSS in React](https://css-tri
 
 ## Day 92
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [Accessibleforall](https://accessiblewebdev.netlify.app/)
+- **Description**: This is a continuation of the contribution that I mentioned Day #90. Check it out [here](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-90) to get more context. Today, I wanted to work on the accessibility section of my entry on Charts.
+- **Tasks completed**: I managed to add more information about how to make charts accessible, recommended resources, and create a WCAG section.
+- **Challenges faced**: I had trouble describing ways people can use accessible colors for their charts. I found some resources and from there I came up with a few ideas.
+- **Resources used**: My brain and [Flourish's articles on how to make charts accessible](https://flourish.studio/blog/accessible-chart-design/) 😄
+- **OpenSauced Highlight**: None yet
 
 ## Day 93
 
