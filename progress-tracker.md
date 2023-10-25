@@ -935,7 +935,7 @@ Saleh Mubashar's article on the many ways to write CSS in React](https://css-tri
 - **Tasks completed**: [List the tasks you completed]
 - **Challenges faced**: [Mention any challenges you encountered]
 - **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **OpenSauced Highlight**: My footer finally got merged! :) Check it out in the [highlights section of OpenSauced](https://app.opensauced.pizza/feed/665). 
 
 ## Day 95
 
