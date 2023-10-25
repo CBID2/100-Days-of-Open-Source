@@ -921,12 +921,12 @@ Saleh Mubashar's article on the many ways to write CSS in React](https://css-tri
 
 ## Day 93
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [YurisCodingClub/accessibility-mentor](https://github.com/YurisCodingClub/accessibility-mentor)
+
+- **Description**: This is the continuation of the contribution I started on Day 91. Check out its description [here](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-91). Today, I wanted to make more revisions based on the maintainer's comments. [Here's an example](https://github.com/YurisCodingClub/accessibility-mentor/pull/42#discussion_r1369615877).
+- **Challenges Faced:** The bottom kept moving on scroll but I found a way to keep the footer at the bottom. The challenge is debating on whether to keep it centered or keep on the left(the maintainer requested for the footer to not have anymore styling). After doing mental gymnastics, I kept few parts to ensure that it stays on the left.
+- **Resources used**: The maintainer recommended [this article](https://www.w3.org/WAI/tutorials/images/decision-tree/) to learn more about creating efficient alt text.
+- **OpenSauced Highlight**: I got two PRs merged today! 😄 [One is for forem, the creator of Dev.to](https://app.opensauced.pizza/feed/660) and [the other is for GitHub's docs](https://app.opensauced.pizza/feed/661).
 
 ## Day 94
 
