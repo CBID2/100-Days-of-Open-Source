@@ -930,12 +930,12 @@ Saleh Mubashar's article on the many ways to write CSS in React](https://css-tri
 
 ## Day 94
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: My footer finally got merged! :) Check it out in the [highlights section of OpenSauced](https://app.opensauced.pizza/feed/665). 
+- **Project**: [YurisCodingClub/accessibility-mentor](https://github.com/YurisCodingClub/accessibility-mentor)
+- **Description**: Yesterday, I noticed that the project's issue templates did not render, so I decided to raise that as an issue. Today, I got assigned to it, so I wanted to create small PRs for each issue template.
+- **Tasks completed**: I managed to create a PR for each issue template.
+- **Challenges faced**: I was not sure how to model it without striving away from the maintainer's requests. I eventually solved the issue by looking at the issue templates in other projects I maintain and Bard's suggestions.
+- **Resources used**: [LinksHub's issue template](https://github.com/rupali-codes/LinksHub/blob/main/.github/ISSUE_TEMPLATE/documentation.yml?plain=1) was a major inspiration for me.
+- **OpenSauced Highlight**: My footer finally got merged! :) Check it out in the [highlights section of OpenSauced](https://app.opensauced.pizza/feed/665).
 
 ## Day 95
 
