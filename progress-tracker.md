@@ -939,12 +939,12 @@ Saleh Mubashar's article on the many ways to write CSS in React](https://css-tri
 
 ## Day 95
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [YurisCodingClub/accessibility-mentor](https://github.com/YurisCodingClub/accessibility-mentor)
+- **Description**: This is a continuation of a contribution that I started yesterday (Day #94). Check out [the description of that entry](https://github.com/CBID2/100-Days-of-Open-Source) to gain context. It turns out that the `bug.yml` file is working and the `feature.yml` and the `docs.yml` files are the ones that need revising. To keep things organized, I decided to focus on the `docs.yml` file.
+- **Tasks completed**: I managed to submit a PR for this file.
+- **Challenges faced**: I kept seeing syntax errors. After looking other projects' templates, I modeled the template based on them.
+- **Resources used**: I used [LinksHub's `docs.yml` file](https://github.com/rupali-codes/LinksHub/blob/main/.github/ISSUE_TEMPLATE/documentation.yml) as a reference.
+- **OpenSauced Highlight**: None
 
 ## Day 96
 
