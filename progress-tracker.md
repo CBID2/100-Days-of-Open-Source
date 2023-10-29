@@ -957,12 +957,13 @@ Saleh Mubashar's article on the many ways to write CSS in React](https://css-tri
 
 ## Day 97
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**: [TBD54566975/developer.tbd.website](https://github.com/TBD54566975/developer.tbd.website)
+- **Description**: This is where [TBD Developer website's](https://developer.tbd.website/) is hosted.
+- **Tasks completed**: So far, I read the tutorial for [updating DWN records](https://developer.tbd.website/docs/web5/build/decentralized-web-nodes/update-to-dwn).
+- **Challenges faced**: At first, I was going to import the code snippet in the Update DWN records tutorial into [the `MDXComponents.js` file](https://github.com/TBD54566975/developer.tbd.website/blob/main/site/src/theme/MDXComponents.js), but then I'm thinking of importing them into [the `CodeSnippet.jsx` file](https://github.com/TBD54566975/developer.tbd.website/blob/main/site/src/components/CodeSnippet.jsx) after seeing the example in the [Contributing Guide](https://github.com/TBD54566975/developer.tbd.website/blob/main/CONTRIBUTING.md)
+ and then import it into the MDXComponents.js file. No worries I'm determined to do this! 😄
+- **Resources used**: This [resource](https://developer.tbd.website/docs/web5/build/decentralized-web-nodes/update-to-dwn) was a bit helpful in how the code snippet looks.
+- **OpenSauced Highlight**: My revised version of the Accessibility project's feature template is officially part of its codebase! 😄 Check it out [here](https://github.com/YurisCodingClub/accessibility-mentor/pull/60).
 
 ## Day 98
 
