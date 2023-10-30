@@ -967,12 +967,55 @@ Saleh Mubashar's article on the many ways to write CSS in React](https://css-tri
 
 ## Day 98
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Project**:  [TBD54566975/developer.tbd.website](https://github.com/TBD54566975/developer.tbd.website)
+- **Description**: This is a contribution that I started yesterday. Check out [the description there to get some context](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-97)
+- **Tasks completed**: I managed to do the following through the maintainer's guide:
+1. create a file called `update-dwn.test.js` under `site/__tests__/web5/build/decentralized-web-nodes`
+
+2. import the test utils, snippet file, and the Web5 library:
+
+```
+import { test, beforeAll, expect } from 'vitest';
+import {
+  updateDwnRecord,
+} from '../../../../code-snippets/web5/build/decentralized-web-nodes/update-dwn';
+import { Web5 } from '@web5/api/browser';
+```
+
+3. create and instantiate web5:
+
+```
+let web5;
+
+// connect to web5 beforeAll tests and assign it to web5 variable
+beforeAll(async () => {
+  ({web5} = await Web5.connect());
+});
+```
+
+4. add test:
+
+```
+test('updateDwnRecord updates an existing record', async () => {
+  //Create record to update
+  const {record: createdRecord} = await web5.dwn.records.create({
+    data: "test record",
+    message: {
+      dataFormat: "text/plain"
+    }
+  });
+
+  //Call code snippet to update record
+  const updateStatus = await updateDwnRecord(web5, createdRecord);
+
+  //Assert that status code is 202
+  expect(updateStatus.code).toBe(202);
+});
+```
+
+- **Challenges faced**: I struggled with writing the code, but through the maintainer's explanations, I managed to do well. I'm determined to still grow.
+- **Resources used**: [The project's Contributing Guide](https://github.com/TBD54566975/developer.tbd.website/blob/main/CONTRIBUTING.md) gave me an idea on how to format the code.
+- **OpenSauced Highlight**: It got merged! 😄 Check it out as a [highlight here](https://app.opensauced.pizza/feed/709).
 
 ## Day 99
 
