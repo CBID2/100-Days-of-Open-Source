@@ -970,11 +970,12 @@ Saleh Mubashar's article on the many ways to write CSS in React](https://css-tri
 - **Project**:  [TBD54566975/developer.tbd.website](https://github.com/TBD54566975/developer.tbd.website)
 - **Description**: This is a contribution that I started yesterday. Check out [the description there to get some context](https://github.com/CBID2/100-Days-of-Open-Source/blob/main/progress-tracker.md#day-97)
 - **Tasks completed**: I managed to do the following through the maintainer's guide:
+
 1. create a file called `update-dwn.test.js` under `site/__tests__/web5/build/decentralized-web-nodes`
 
 2. import the test utils, snippet file, and the Web5 library:
 
-```
+```js
 import { test, beforeAll, expect } from 'vitest';
 import {
   updateDwnRecord,
@@ -995,7 +996,7 @@ beforeAll(async () => {
 
 4. add test:
 
-```
+```js
 test('updateDwnRecord updates an existing record', async () => {
   //Create record to update
   const {record: createdRecord} = await web5.dwn.records.create({
@@ -1022,9 +1023,22 @@ test('updateDwnRecord updates an existing record', async () => {
 - **Project**: [Project Name]
 - **Description**: [Briefly describe the project and your goals for the day]
 - **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Challenges faced**: Configuring this action has been quite difficult. I reread the documentation for the GitHub Action and apparently, it is recommended to follow this repo style:
+
+```pseudo
+.github
+├── styles
+│   └── vocab.txt
+└── workflows
+    └── main.yml
+.vale.ini
+...
+```
+
+Now, the next thing I have to do is fill out the `vocab.txt`.
+
+- **Resources used**: Vale's [configuration documentation](https://vale.sh/docs/topics/config/) and their [GitHub Action documentation](https://github.com/marketplace/actions/vale-linter)
+- **OpenSauced Highlight**: My PR for OpenSauced got merged! 😄 Check out the [highlight](https://app.opensauced.pizza/feed/713).
 
 ## Day 100
 
