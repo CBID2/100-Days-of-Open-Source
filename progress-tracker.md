@@ -1042,9 +1042,4 @@ Now, the next thing I have to do is fill out the `vocab.txt`.
 
 ## Day 100
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+I made it to 100 Days! 😄 I had a great time doing this challenge, and can't wait to see what more contributions await for me in the future.  
